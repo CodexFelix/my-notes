@@ -1,6 +1,0 @@
-- Porto de Galinhas (sud di Recife)
-- Morro de Sao Paulo (sud Salvador de Bahia)
-- Canoa Quebrada (sud di Fortaleza)
-- Praia de Pipa (sud di Natal)
-- Praia do Forte (nord Salvador de Bahia)
-- 

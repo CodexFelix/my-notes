@@ -1,0 +1,2 @@
+- per **crisi** s’intende “lo stato del debitore che rende ==probabile l'insolvenza== e che si manifesta con l'inadeguatezza dei flussi di cassa prospettici a far fronte alle obbligazioni nei successivi dodici mesi” (art. 2 c. 1 lett. a) CCI come modificato dal d.lgs. 83/2022),
+- per **insolvenza** s’intende “lo stato del debitore che si manifesta con ==inadempimenti o altri fatti esteriori==, i quali dimostrino che il debitore non è più in grado di soddisfare regolarmente le proprie obbligazioni” (art. 2 c. 1 lett. b) CCI).

@@ -1,0 +1,14 @@
+Un'importante novità dello [Statuto](https://def.finanze.it/DocTribFrontend/decodeurn?urn=urn:doctrib::L:2000-07-27;212) consiste nella codificazione delle ipotesi in cui l'amministrazione provvede a dare pubblicità - in omaggio alle esigenze di trasparenza dell'azione amministrativa, correttamente temperate dall'esigenza di assicurare la certezza del diritto - alle risposte fornite in sede di interpello. 
+
+Il nuovo [comma 6 dell'articolo 11 dello Statuto](https://def.finanze.it/DocTribFrontend/decodeurn?urn=urn:doctrib::L:2000-07-27;212_art11-com6) detta, infatti, una norma programmatica che rispetto alla pregressa regola contenuta nel precedente comma 4 amplia le ipotesi di pubblicazione delle risposte, individuando più che una mera facoltà una regola di comportamento, quando: 
+
+a) la medesima questione o questioni analoghe sono presentate da un numero elevato di contribuenti; 
+b) sia stata fornita l'interpretazione di norme di recente approvazione o di disposizioni per le quali manchino indicazioni ufficiali della stessa amministrazione; 
+c) sulla questione oggetto dell'istanza l'amministrazione sia a conoscenza di comportamenti non uniformi da parte degli uffici;
+d) più in generale, in ogni altro caso in cui l'amministrazione ritenga di interesse generale il chiarimento fornito.
+
+Si ricorda che la pubblicazione delle risposte costituisce attività soggetta a valutazione da parte della Direzione Centrale, restando sostanzialmente preclusa alle Direzioni regionali. Ciò al fine di garantire un costante monitoraggio - istituzionalmente assegnato alle Direzioni centrali - sulla uniforme interpretazione ed applicazione delle norme sul territorio nazionale. 
+
+Proprio in questa prospettiva, infatti, il [_provvedimento_](https://def.finanze.it/DocTribFrontend/decodeurn?urn=urn:doctrib:AEN:PRV:2016-01-04;), al punto 2.6, stabilisce che le Direzioni regionali inoltrino l'istanza per la lavorazione da parte della Direzione centrale tutte le volte in cui ritengano che la risposta potrebbe essere soggetta a pubblicità ai sensi dell'[articolo 11, comma 6, dello Statuto](https://def.finanze.it/DocTribFrontend/decodeurn?urn=urn:doctrib::L:2000-07-27;212_art11-com6). 
+
+Nella riformulazione del [comma 6](https://def.finanze.it/DocTribFrontend/decodeurn?urn=urn:doctrib::L:2000-07-27;212_art11-com6), infine, giova sottolineare che - uniformandosi ad una prassi costantemente seguita dall'amministrazione anche in passato - la pubblicazione della risposta non esime l'amministrazione dal provvedere alla ordinaria comunicazione della medesima a ciascuno dei contribuenti istanti; ciò anche al fine di consentire che rispetto questi ultimi, individualmente, si producano gli effetti propri della risposta all'interpello (come si chiarirà più nel dettaglio, al par. 5).

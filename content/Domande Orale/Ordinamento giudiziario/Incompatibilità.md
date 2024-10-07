@@ -1,0 +1,38 @@
+### **L’incompatibilità di sede per i magistrati (art. 18 e 19 ord.giud). Ratio e differenze dall’incompatibilità** **“processuale”**
+
+L’ordinamento giudiziario regola l’incompatibilità di sede dei magistrati: 
+a) per rapporti di parentela o affinità con esercenti la professione forense
+b) per rapporti con altri magistrato della stessa sede 
+c) per rapporti con ufficiali o agenti di polizia giudiziaria della stessa sede
+
+Le situazioni indicate sono prese in considerazione dal legislatore perché determinano (ovvero possono determinare) una **lesione all’immagine di corretto ed imparziale esercizio della funzione** **giurisdizionale da parte del magistrato e, in generale, dell’ufficio di appartenenza** ovvero pregiudizio della credibilità della funzione o intralci al regolare andamento del servizio.
+
+Sia che il pregiudizio sia presunto in modo assoluto, con la conseguenza che accertati i presupposti di fatto ricorre automaticamente, sia che occorra una verifica in concreto, procede **il Consiglio** **superiore della magistratura** che provvede a rimuovere la situazione attraverso il **trasferimento** (dalla sede) del magistrato.
+
+Le incompatibilità, infatti, in quanto comportanti, per la loro rimozione, il trasferimento d’ufficio del magistrato, si pongono come ipotesi di **deroga al principio di inamovibilità del magistrato**, posto dal primo comma dell’art. ==107 della Costituzione==, consentito esclusivamente:
+a) **con delibera dell’organo di autogoverno;**
+b) **nei soli casi previsti dall’ordinamento giudiziario (tassatività);**
+c) **con** **_le garanzie di difesa_** **previste sempre dall’ordinamento giudiziario**.
+
+La garanzia dell’inamovibilità è prevista dal costituente non quale privilegio del magistrato ma
+come prerogativa posta a presidio dell’autonomia e indipendenza funzionale alla soggezione solo alla legge (prima di tutto quella costituzionale). Il legislatore, in attuazione dell’art. 107 comma 1 Cost, ha previsto specifiche ipotesi di deroga ritenendo prevalente sull’inamovibilità l’interesse ad un esercizio trasparente della funzione anche solo sotto il profilo dell’apparenza.
+
+L’incompatibilità di sede risponde a esigenze diverse da quelle poste a fondamento dell’incompatibilità processuale, che trova fondamento nella necessità di evitare un pregiudizio (sotto il mero profilo dell’apparenza) dell’imparzialità del giudice nella decisione, in applicazione del principio costituzionale del giusto processo (art. 111 Cost.). Tali profili sono affrontati e risolti nell’ambito del procedimento con gli strumenti e le sanzioni tipiche del processo.
+
+---
+>Art. 18. **Incompatibilità di sede per rapporti di parentela o affinità con esercenti la professione forense**.
+>I magistrati giudicanti e requirenti delle corti di appello e dei tribunali non possono appartenere ad uffici giudiziari nelle sedi nelle quali i loro parenti fino al secondo grado, gli affini in primo grado, il coniuge o il convivente, esercitano la professione di avvocato. 
+>La ricorrenza in concreto dell'incompatibilità di sede è verificata sulla base dei seguenti criteri: 
+>a) rilevanza della professione forense svolta dai soggetti di cui al primo comma avanti all'ufficio di appartenenza del magistrato, tenuto, altresì, conto dello svolgimento continuativo di una porzione minore della professione forense e di eventuali forme di esercizio non individuale dell'attività da parte dei medesimi soggetti; 
+>b) dimensione del predetto ufficio, con particolare riferimento alla organizzazione tabellare; 
+>c) materia trattata sia dal magistrato che dal professionista, avendo rilievo la distinzione dei settori del diritto civile, del diritto penale e del diritto del lavoro e della previdenza, ed ancora, all'interno dei predetti e specie del settore del diritto civile, dei settori di ulteriore specializzazione come risulta, per il magistrato, dalla organizzazione tabellare; 
+>d) funzione specialistica dell'ufficio giudiziario.
+>Ricorre sempre una situazione di incompatibilità con riguardo ai Tribunali ordinari organizzati in un'unica sezione o alle Procure della Repubblica istituite presso Tribunali strutturati con un'unica sezione, salvo che il magistrato operi esclusivamente in sezione distaccata ed il parente o l'affine non svolga presso tale sezione alcuna attività o viceversa. 
+>I magistrati preposti alla direzione di uffici giudicanti e requirenti sono sempre in situazione di incompatibilità di sede ove un parente o affine eserciti la professione forense presso l'Ufficio dagli stessi diretto, salvo valutazione caso per caso per i Tribunali ordinari organizzati con una pluralità di sezioni per ciascun settore di attività civile e penale.
+>Il rapporto di parentela o affinità con un praticante avvocato ammesso all'esercizio della professione forense, è valutato ai fini dell'articolo 2, comma 2, del regio decreto legislativo 31 maggio 1946, n. 511, e successive modificazioni, tenuto conto dei criteri di cui al secondo comma (1).
+
+
+> Art. 19 **Incompatibilità di sede per rapporti di parentela o affinità con magistrati o ufficiali o agenti di polizia giudiziaria della stessa sede**. 
+> I magistrati che hanno tra loro vincoli di parentela o di affinità sino al secondo grado, di coniugio o di convivenza, non possono far parte della stessa Corte o dello stesso Tribunale o dello stesso ufficio giudiziario. La ricorrenza in concreto dell'incompatibilità di sede è verificata sulla base dei criteri di cui all'articolo 18, secondo comma, per quanto compatibili. I magistrati che hanno tra loro vincoli di parentela o di affinità sino al terzo grado, di coniugio o di convivenza, non possono mai fare parte dello stesso Tribunale o della stessa Corte organizzati in un'unica sezione ovvero di un Tribunale o di una Corte ==organizzati in un'unica sezione== e delle rispettive Procure della Repubblica, salvo che uno dei due magistrati operi esclusivamente in sezione distaccata e l'altro in sede centrale. 
+> I magistrati che hanno tra loro vincoli di parentela o di affinità fino al quarto grado incluso, ovvero di coniugio o di convivenza, non possono ==mai far parte dello stesso collegio giudicante nelle corti e nei tribunali.  ==
+> I magistrati preposti alla direzione di uffici giudicanti o requirenti della stessa sede sono sempre in situazione di incompatibilità, salvo valutazione caso per caso per i Tribunali o le Corti organizzati con una pluralità di sezioni per ciascun settore di attività civile e penale. ==Sussiste, altresì, situazione di incompatibilità==, da valutare sulla base dei criteri di cui all'articolo 18, secondo comma, in quanto compatibili, se il magistrato dirigente dell'ufficio è in rapporto di parentela o affinità entro il terzo grado, o di coniugio o convivenza, ==con magistrato addetto al medesimo ufficio==, tra il presidente del Tribunale del capoluogo di distretto ed i giudici addetti al locale Tribunale per i minorenni, tra il Presidente della Corte di appello o il Procuratore generale presso la Corte medesima ed un magistrato addetto, rispettivamente, ad un Tribunale o ad una Procura della Repubblica del distretto, ivi compresa la Procura presso il Tribunale per i minorenni. I magistrati non possono appartenere ad uno stesso ufficio giudiziario ove i loro parenti fino al secondo grado, o gli affini in primo grado, svolgono attività di ==ufficiale o agente di polizia giudiziaria==. La ricorrenza in concreto dell'incompatibilità è verificata sulla base dei criteri di cui all'articolo 18, secondo comma, per quanto compatibili (1)

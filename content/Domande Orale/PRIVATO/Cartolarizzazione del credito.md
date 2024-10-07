@@ -1,0 +1,11 @@
+Con L. 30 aprile 1999, n. 130, è stata disciplinata anche nel nostro Paese un’ulteriore operazione finanziaria — pur essa di derivazione anglosassone — che fa perno sull’istituto della cessione del credito: la c.d. « cartolarizzazione dei crediti ».
+
+L’operazione — finalizzata, da un lato, allo smobilizzo dei crediti (procurando immediata liquidità al creditore) e, da altro lato, alla creazione di un nuovo bene (uno « strumento finanziario »; v. § 84) da collocare sul mercato — risulta, nelle sue linee essenziali, così articolata (v. Cass. 27 maggio 2015, n. 10885):
+- ==un soggetto (c.d. **originator**) — nella pratica, sovente una banca o un intermediario finanziario — cede, a titolo oneroso, uno o (anche « in blocco ») più crediti pecuniari==, sia esistenti sia futuri (ma, ora, v. anche art. 1, comma 1-bis, L. n. 130/1999), ==ad una società di capitali avente ad oggetto esclusivo la realizzazione di una o più operazioni di cartolarizzazione== (art. 3, commi 1 e 3, L. n. 130/1999): c.d. « **società veicolo** »;
+- per procurarsi la provvista necessaria all’acquisto dei crediti, ==la « società veicolo== »—direttamente o tramite altra società—==emette « titoli »== (cui, a tutela del mercato, trovano applicazione le disposi- zioni dettate dal T.U.B.) destinati ad essere collocati presso investi- tori, professionali e non (nel qual ultimo caso sono previste partico- lari cautele a protezione dell’investitore: art. 2, commi 4 e 5, L. n. 190/1999);
+- la « società veicolo » direttamente o attraverso altra distinta società (c.d. servicer: art. 2, comma 3 lett. c, L. n. 190/1999) — provvede alla riscossione dei crediti ceduti ed alle attività ad essa finalizzate
+- le somme incassate dai debitori ceduti vengono destinate, in via esclusiva ai portatori dei « titoli » emessi per finanziare l'acquisto dei relativi crediti
+
+
+Per garantire tale ultimo obiettivo, l’art. 3, comma 2, L. n. 190/1999 statuisce che ==i crediti oggetto di cessione da parte dell’originator a favore della « società veicolo »==, pur divenendo formalmente di titolarità di quest’ultima, ==costituiscono però un « patrimonio separato » (v. § 94): un patrimonio, cioè, distinto sia dal residuo patrimonio della stessa « società veicolo »==
+

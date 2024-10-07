@@ -1,0 +1,32 @@
+Seppure con un ritardo di oltre cinquant’anni rispetto all’entrata in vigore del codice civile, l’art. 8 L. 29 dicembre 1993, n. 580, ha istituito l’« ufficio del registro delle imprese di cui all’**articolo 2188 del codice civile** » (art. 8, comma 1, L. n. 580/1993).
+
+Il registro è tenuto in ciascuna provincia presso la locale « Camera di commercio, industria, artigianato e agricoltura », ed è assoggettato alla vigilanza di un giudice delegato dal Presidente del Tribunale competente per territorio presso cui è istituita la sezione specializzata in materia di imprese (art. 2188, comma 2, c.c.; art. 8, comma 3, L. n. 580/1993; art. 4 D.P.R. 7 dicembre 1995, n. 581).
+
+Il registro delle imprese è l'istituto attraverso cui le imprese assolvono specifici obblighi pubblicitari imposti dalla legge, portando a conoscenza dei terzi i fatti più rilevanti per la vita dell'impresa.
+La funzione della pubblicità è duplice: da un lato consente ai soggetti che entrano in contatto con un'impresa commerciale di disporre, relativamente a tale impresa, di informazioni affidabili e non contestabili (==funzione di pubblicità notizia==), dall'altro consente all'imprenditore di **opporre ai terzi tutti** i fatti che hanno costituito oggetto di iscrizione (==funzione dichiarativa==), indipendentemente dall'effettiva conoscenza che i terzi hanno avuto dei fatti iscritti.
+
+### Soggetti obbligati
+Il registro è attualmente articolato in una sezione ordinaria ed in più sezioni speciali:
+Nella « **sezione ordinaria** » sono iscritti gli ==imprenditori individuali commerciali non piccoli, le società di persone e di capitali (escluse le società semplici)== e le società cooperative, anche se non esercitano attività commerciale, i consorzi tra imprenditori con attività esterna e le società consortili, i gruppi europei di interesse economico (GEIE), gli enti pubblici economici, ecc. (art. 7, comma 2, D.P.R. n. 581/1995);
+
+Nella prima **« sezione speciale »** sono iscritti gli ==imprenditori agricoli, gli imprenditori ittici, i piccoli imprenditori==, le società semplici, gli imprenditori artigiani iscritti nell’apposito albo di cui alla L. n. 443/1985 (art. 2, comma 1, D.P.R. 14 dicembre 1999, n. 558); 
+
+in **altra « sezione speciale »** sono iscritte le società aventi ad oggetto l’esercizio di una o più attività professionali per le quali sia  prevista l’iscrizione in appositi albi o elenchi regolamentati nel sistema ordinistico di cui all’art. 10 L. 12 novembre 2011, n. 183: c.d. « ==società di professionisti== » (art. 16, comma 2, D.Lgs. 2 febbraio 2001,
+n. 96; v. anche artt. 7 e 9, comma 4, D.M. 8 febbraio 2013, n. 34);
+
+
+e) in altra « sezione speciale » sono iscritte le c.d. « imprese sociali » (artt. 5, comma 2, e 9 D.Lgs. n. 112/2017; D.M. 16 marzo 2018); 
+f) in altra « sezione speciale » sono iscritte le c.d. « imprese start-up innovative » ed i c.d. « incubatori certificati » di cui all’art. 25, commi 2, 3 e 5, D.L. 18 ottobre 2012, n. 179 (art. 25, commi 8 ss., D.L. n. 179/2012);
+g) in altra « sezione speciale » ancora sono iscritte le c.d. « PMI innovative » di cui all’art. 4 D.L. 24 gennaio 2015, n. 3 (art. 4, commi 2 ss., D.L. n. 3/2015);
+
+
+### Oggetto di iscrizione
+Costituiscono oggetto di iscrizione tutti i fatti e gli atti specificamente prescritti dalla lege (2196-2200), relativi sostanzialmente ai dati che consentono l'individuazione dell'impresa e dell'imprenditore e, dall'altro, segnalano le più importanti modificazioni intervenute nell'esercizio dell'attività imprenditoriale. L'iscrizione avviene su domanda dell'interessato (2189 cc) o d'ufficio su ordine del iudice del Registro nel caso in cui si tratti di iscrizione obbligatoria (2190)
+L'inosservanza dell'obbligo di iscrizione è sanzionata in via amministrativa (2194, 2626, 2635), mentre è preclusa la possibilità di iscrivere atti o fatti non specificamente previsti dalla legge.
+
+### Effetti iscrizione registro imprese
+- L’iscrizione nel registro delle imprese ha — **di regola — efficacia dichiarativa**: ciò significa che i fatti e gli atti soggetti ad iscrizione sono, dal momento della loro registrazione, ==opponibili a chiunque, sicché nessuno potrà eccepire di non averne avuto notizia==: si dice, perciò, che l’iscrizione ==determina la conoscenza legale del fatto o dell’atto iscritto (art. 2193, comma 2, c.c.).== Prima dell’iscrizione, il medesimo fatto od atto può invece essere opposto ai terzi, solo se si riesca a dar prova specifica che il soggetto, cui si vorrebbe opporlo, « ne abbia avuto conoscenza » (art. 2193, comma 1, c.c.). 
+- Eccezionalmente, l’iscrizione nel registro delle imprese ha: a) **efficacia costitutiva**, per quel che riguarda l’atto costitutivo di società lucrative di capitali (artt. 2331, comma 1, e 2463, v. § 518) e di società cooperative (art. 2519, 2523 c.c.; v. § 556), la cui iscrizione è condizione necessaria per la stessa esistenza della società - prima dell'iscrizione le società non esistono; 
+- b) **efficacia regolamentare/normativa**, per quel che riguarda l’atto costitutivo di ==società in nome collettivo e di società in accomandita semplice== (artt. 2296 ss. e 2317 c.c.), la cui iscrizione è condizione per l’applicazione a dette società di tutte le regole previste per tale tipo societario; ==diversamente, la società opererà quale società irregolare== (v. § 515);
+- c) efficacia di **pubblicità-notizia**, per quel che riguarda i ==fatti e gli atti iscritti nelle « sezioni speciali ==» (art. 8, comma 5, L. n. 580/1993); non più, peraltro, per quel che riguarda i fatti e gli atti relativi agli imprenditori agricoli, anche piccoli, ed alle società semplici esercenti attività agricola: alla pubblicazione di essi l’art. 2 D.Lgs. n. 228/2001 ricollega, infatti, l’ordinaria efficacia dichiarativa;
+- d) efficacia di condizione — per quel che riguarda le « start-up innovative » e gli « incubatori certificati » — per l’accesso ai benefici a loro favore contemplati dalla legge (art. 25, comma 8, D.L. n. 179/2012); e — per quel che riguarda le « PMI innovative » e le imprese per l’alternanza scuola-lavoro — per la condivisione di tutta una serie di informazioni indicate, rispettivamente, dall’art. 4, comma 2, D.L. n. 3/2015 e dall’art. 1, comma 41 lett. b, L. n. 107/2015.

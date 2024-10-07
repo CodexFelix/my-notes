@@ -1,0 +1,50 @@
+Le indagini possono svolgersi contro "ignoti" oppure contro un "indagato".
+
+Spesso le denunce sono presentate contro ignoti: la PG trasmette la denuncia al PM che ordina alla segreteria di iscriverla nel RGNR (art. 335 cpp)
+Svolte le indagini, può darsi che gli elementi raccolti consentano di addebitare il reato alla responsabilità di una determinata persona. Allora il PM ordina alla segreteria di iscrivere nel registro, accanto all'indicazione della denuncia, il nome della persona cui il reato è attribuito (335 c. 1-bis). Costui è il soggetto che il codice denomina "persona sottoposta alle indagini preliminari" e che la prassi chiama "indagato"
+
+
+### Imputato (60) vs indagato (61)
+- Assunzione della qualità di imputato (art. 60): con la richiesta di rinvio a giudizio, o di instaurazione dei riti speciali (di giudizio immediato, di decreto penale di condanna, applicazione della pena su richiesta delle parti, decreto di citazione diretta a giudizio e giudizio direttissimo). 
+- La qualità di imputato si conserva in ogni stato e grado del procedimento sino a che non sia più soggetta a impugnazione la sentenza di non luogo a procedere, sia divenuta irrevocabile la sentenza di proscioglimento o di condanna o sia divenuto esecutivo il decreto penale di condanna
+- La qualità di imputato si riassume in caso di revoca della sentenza di non luogo a procedere o qualora sia disposta la revisione del processo (629) oppure per riapertura dello stesso a seguito di rescissione del giudicato (629-bis) o a seguito di accoglimento della richiesta di eliminazione effetti pregiudizievoli adottati in violazione della CEDU (628-bis)
+
+==Indagato: (61)==, il codice utilizza un termine il più possibile neutro e non pregiudizievole ("persona sottoposta alle indagini preliminari").
+La distinzione tra le due figure è puramente a fini garantistici.
+Quando si tratta di enunciare i diritti di difesa, infatti, il codice opera un'ampia equiparazione: i diritti e le garanzie dell'imputato si estendono all'indagato. 
+- si estendono quindi le misure di tutela (come la possibilità di presentare richiesta di riesame contro una misura coercitiva ex art. 309)
+- si estendono pure le altre disposizioni, pure ad effetto favorevole, come l'applicabilità delle misure cautelari (purché naturalmente siano presenti i requisiti necessari per applicarle)
+
+### Interrogatorio (64 e 65): regole generali e diritto di autodifesa
+Il codice prevede che l'interrogatorio può essere svolto da vari soggetti (anche il GUP nell'Udienza preliminare o il PM nelle indagini preliminari). Si tratta di un atto garantito, cui il difensore ha diritto di assistere, limitandosi a formulare richieste, osservazioni e riserve (364)
+
+- Persona indagata interviene libera all'interrogatorio: dall'interrogatorio si potranno ottenere dichiarazioni soltanto se e nei limiti in cui l'indagato decida liberamente di renderle
+- (c. 2): divieto di utilizzare metodi o tecniche idonei ad influire sulla libertà di autodeterminazione o ad alterare la capacità di ricordare e valutare i fatti
+- Avvisi (c. 3): 
+	- che le **dichiarazioni potranno essere sempre usate nei suoi confronti** (sia contro che a suo favore) - n.b. sia durante le indagini che nel corso del dibattimento anche se l'imputato non si presenta o tace. (lealtà nei confronti dell'indagato) 
+	- che **ha facoltà di non rispondere** ad alcuna domanda, salvo quanto disposto dall'art. 66 (obbligo di rispondere secondo verità sulla sua identità personale, sanzionato dagli artt. 495 e 651 cp) - può anche esercitare tale diritto parzialmente restando silenzioso su alcune domande e rispondendo ad altre. Il procedimento seguirà comunque il suo corso.
+	  La Corte costituzionale (111/2023) ha esteso la portata di questo avviso, ricomprendendo anche la facoltà di non rispondere alle domande sulle qualità personali (21 disp. att che richiama l'art. 66 cpp) - il riferimento è alle domande riguardanti non le generalità in senso stretto, bensì relative al soprannome, pseudonimo, eventuale disponibilità di beni patrimoniali, condizioni di vita individuale, familiare o sociale, nonché invito di dichiarare se sia sottoposto ad altri processi penali, se esistano condanne nello Stato o all'estero o se eserciti uffici o servizi pubblici. Tali risposte, pur non attinendo direttamente al fatto di reato, possono essere successivamente utilizzate contro il medesimo indagato e sono capaci di avere un impatto sulla condanna e sulla sanzione che potrebbe essere inflitta
+	>==L' inosservanza di questi due primi avvisi rende le dichiarazioni rese dall'interrogato inutilizzabili==
+	- che **se renderà dichiarazioni su fatti concernenti la responsabilità di altri, assumerà in ordine a tali fatti l'ufficio di testimone** . 
+	-> L'omissione dell'avviso comporta che le dichiarazioni rese dall'indagato su fatti concernenti la responsabilità di altri non sono utilizzabili nei loro confronti e l'indagato non potrà assumere la qualità di testimone su tali dichiarazioni rese in assenza di rituale avvertimento
+
+==Regole dell'interrogatorio sul merito== (65):
+- L'AG (anche PM) prima di rivolgere le domande all'indagato deve **contestargli in forma chiara e precisa il fatto che gli è attribuito**, indicando gli elementi di prova esistenti contro di lui e, salvo che ciò comporti pregiudizio per le indagini, anche le fonti di prova
+- solo dopo di questa contestazione il PM **invita l'indagato a rispondere alle domande**. Varie le possibilità che si presentano all'imputato:
+	- può rifiutare di rispondere a tutte le domande o alcune di esse. In tal caso ne è fatta menzione nel verbale. Nel verbale è fatta menzione anche di eventuali segni fisici e connotati della persona
+	- L'indagato può rispondere. Se egli ammette fatti a lui sfavorevoli, si ha una confessione. Occorre segnalare che l'indagato non ha un obbligo penalmente sanzionato di dire la verità; tuttavia, spesso i difensori consigliano di tacere piuttosto che rendere dichiarazioni false (infatti se la falsità sarà poi accertata, ciò costituirà prova che l'indagato non è credibile e le sue dichiarazioni saranno utilizzate come elemento contro di lui).
+	- L'indagato può mentire. In tal caso egli non commette il delitto di falsa testimonianza o di false informazioni al PM, dato che ==tali reati richiedono la qualifica di testimone, che l'indagato non ha==. Quanto agli ulteriori reati che possa integrare rendendo dichiarazioni mendaci, egli è protetto dalla causa di non punibilità prevista dall'art. **384 cp**. (esimente in favore di colui che ha commesso determinati reati contro l'amministrazione della giustizia per esservi stato costretto dalla necessità di salvarsi da un grave ed inevitabile pregiudizio nella libertà o nell'onore)
+Limiti alla operatività del 384 cp (e alla possibilità di mentire):
+- l'indagato è punibile quando compie simulazione di reato, cioè afferma essere avvenuto un reato che nessuno ha commesso
+- risponde anche per la calunnia, quando incolpa di un reato taluno che sa di essere innocente
+- del pari anche reati di intralcio alla giustizia (o subornazione di testimoni); favoreggiamento reale (aiutare taluno ad assicurare profitto o prezzo del reato); indurre una persona che ha facoltà di non rispondere a non rendere dichiarazioni o rendere dichiarazioni mendaci
+
+
+### Dichiarazioni autoindizianti e divieto di sentire l'indagato come persona informata
+L'indagato si trova in una posizione diversa rispetto a testimone (quando depone davanti al giudice ex art. 194) - persona informata (future witness, depone davanti al PM nelle indagini 362), che è ammonita dell'obbligo di rispondere secondo verità alle domande che le sono rivolte e che se rende dichiarazioni false o tace ciò che sa commette il delitto di falsa testimonianza (372) o false informazioni al PM (371-bis). 
+
+- Dichiarazioni autoindizianti (63 cpp), se nel corso della deposizione il testimone rende dichiarazioni dalle quali emergono indizi di reità a suo carico, l'autorità procedente ==interrompe l'esame, rivolgendole una serie di avvertimenti==: che a seguito delle dichiarazioni potranno essere svolte indagini nei suoi confronti; invitarla a nominare un difensore.
+	- Le dichiarazioni rese fino a quel momento non possono essere utilizzate contro la persona che le ha rese; viceversa possono essere utilizzate a suo favore (per provare ad es. la legittima difesa) o contro altre persone
+
+==Divieto di sentire l'indagato come persona informata==: per evitare che vengano eluse le norme garantiste sull'interrogatorio da parte di inquirente (PM o PG) che interroghi un indagato senza riconoscergli tale qualità e senza rispettare il suo diritto di non rispondere, si prevede che "se una persona ascoltata come testimone **doveva essere sentita sin dall'inizio come imputato o indagato**, le dichiarazioni ==non possono essere utilizzate==" (in questo caso tout court, anche contro altre persone)
+	le SU 1997 (Carpanelli) hanno chiarito i limiti di questa forma di inutilizzabilità assoluta: solo dichiarazioni provenienti da persona a carico della quale sussistevano indizi in ordine allo stesso reato o a reato connesso o collegato attribuito al terzo. L'inutilizzabilità non si estende a quelle dichiarazioni che coinvolgano imputati di reati che non sono in alcun legame processuale con quelli per i quali si procede e si trovino in posizione di totale estraneità e indifferenza. La suprema Corte ha rilevato che rispetto a tali reati il dichiarante avrebbe comunque assunto la qualifica di testimone o possibile testimone. Pertanto, in relazione a tali dichiarazioni non vi è alcun difetto di garanzie. La medesima sentenza ha precisato che l'inutilizzabilità, in quanto informata alla tutela del diritto di difesa, non colpisce le dichiarazioni favorevoli per colui che le ha rese o per altre persone

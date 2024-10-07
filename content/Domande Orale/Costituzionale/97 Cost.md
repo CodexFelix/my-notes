@@ -1,0 +1,21 @@
+- Legalità: i pubblici uffici sono organizzati secondo disposizioni di legge
+	- sebbene la riserva sia riferita solo al profilo organizzativo, la si ritiene pacificamente estesa anche all'attività della PA (l'art. 1 l. 241/90 l'attività amministrativa persegue i fini determinati dalla legge)
+	- ne conseguono corollari applicativi: tipicità dei provvedimenti amministrativi, non ammessi al di fuori dei casi di legge; tassatività dei casi di esecutorietà (possibilità di portare coattivamente ad esecuzione i provvedimenti amministrativi ex art. 21-ter); eccezionalità degli atti amministrativi destinati a formare certezza legale privilegiata, nei soli casi di legge
+- Buon andamento
+	- Considerato dal legislatore nel TUPI che ha imposto l'obbligo per i funzionari di conformarsi a parametri di economicità (ottimizzazione dei risultati in relazione ai mezzi a disposizione), efficacia (rapporto obiettivi-risultati) efficienza (rapporto tra risorse impiegate e risultati conseguiti)
+- Imparzialità: riferita sia all'organizzazione dei pubblici uffici che all'attività amministrativa.
+	- in negativo: equidistanza rispetto ai soggetti pubblici o privati che con essa vengono in contatto
+	- in positivo: obbligo di ponderare comparativamente tutti gli interessi coinvolti dall'azione amministrativa, dando prevalenza a quello pubblico affidato alle sue cure solo se il sacrificio delle altre posizioni, pubbliche o private coinvolte risulti il frutto di una scelta coerente e proporzionata.
+	- dall'imparzialità va distinto il concetto di neutralità, che invece implica l'indifferenza di un organo o un'autorità rispetto agli interessi che è chiamata a regolare e comporre (che riguarda le Autorità amministrative indipendenti). La PA ha l'obbligo di essere imparziale, ma non anche neutrale, dovendo sempre perseguire il pubblico interesse di cui è portatrice
+- ==Concorso per l'accesso== agli impieghi, salvo casi stabiliti dalla legge: è la forma generale di reclutamento nelle PA, funzionale a soddisfare esigenze di imparzialità ed efficienza dell'azione
+	- la regola opera anche nel caso di passaggio da un'area funzionale all'altra e delle progressioni di carriera. E' comunque consentita una riserva di posti da destinare al personale interno, comunque non superiore al 50% di quelli messi a concorso
+- ==Equilibrio dei bilanci== L. Cost. 1/2012 (fiscal compact) ha introdotto il principio del pareggio di bilancio, in modo da tenere conto delle fasi avverse e fasi favorevoli del ciclo economiche.
+- ==Pubblicità/trasparenza== (non espresso dal 97 ma ritenuto riconducibile): impone alla PA di rendere visibile dall'esterno il proprio operato
+	- accesso agli atti amministrativi
+	- obbligo di motivazione dei provvedimenti
+	- istituti di partecipazione al procedimento 
+- ==Sussidiarietà:== criterio ripartizione delle funzioni amministrative. 
+	- verticale: allocazione delle funzioni al livello di governo più vicino al cittadino, salvo che l'adeguato esercizio sia incompatibile con le dimensioni dell'ente locale o con le possibilità organizzative dell'ente
+	- orizzontale: criterio di regolamento dei rapporti tra privati ed enti, che impone a questi di ritirarsi ogni qual volta il loro intervento non sia necessario per la realizzazione di un determinato obiettivo (118 c. 4 Cost.)
+- ==Contraddittorio== dovere di ascoltare l'interessato prima di adottare un provvedimento sfavorevole
+- ==Respionsabilità==: cui si affianca la tutela giurisdizionale contro gli atti della PA (113 Cost.: c. atti PA è sempre ammessa tutela giurisdizionale dei diritti soggettivi e interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa. Tale tutela giurisdizionale non può essere esclusa o limitata a particolari mezzi di impugnazione o per determinate categorie di atti)

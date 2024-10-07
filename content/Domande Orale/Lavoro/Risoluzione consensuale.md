@@ -1,0 +1,6 @@
+La risoluzione consensuale, quale espressione del principio generale della libera recedibilità dai rapporti giuridici, radica il fondamento nell'art. 1372 cc, per cui le parti possono di comune accordo risolvere il contratto.
+Prima dell'avvento della l. 92/12 e della successiva riforma D.lgs. 151/2015 si riteneva che non vi fossero prescrizioni di ordine formale. Per cui il rapporto poteva essere risolto anche attraverso un comportamento concludente delle parti purché dallo stesso fosse desumibile una volontà inequivoca.
+La giurisprudenza di legittimità intervenendo sul punto ha evidenziato che non può attribuirsi valenza significativa alla mera inerzia delle parti nei casi in cui la decorrenza del tempo non sia accompagnata da altre circostanze oggettive da cui sia desumibile la volontà delle stesse di porre definitivamente fine ad ogni rapporto.
+
+==L'art. 26 d.lgs. 151/2015 ha definitivamente accantonato il principio della libertà delle forme, estendendo anche alla risoluzione consensuale il regime giuridico previsto per le dimissioni, determinando quindi definitivamente la possibilità della risoluzione del rapporto per mutuo consenso tacito.==
+Si rinvia quindi alle forme di esercizio delle dimissioni.

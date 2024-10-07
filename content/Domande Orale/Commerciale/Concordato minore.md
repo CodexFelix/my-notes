@@ -1,0 +1,58 @@
+Il **concordato minore** è una nuova procedura di composizione della crisi da sovraindebitamento alla quale possono ricorrere i professionisti, i piccoli imprenditori ed imprenditori agricoli e le start-up innovative, ad esclusione del consumatore, al fine di poter continuare a svolgere la propria attività imprenditoriale o professionale (**[artt. 74-83 D.lgs. n. 14/2019](https://www.altalex.com/documents/leggi/2019/02/15/codice-crisi-impresa-strumenti-di-regolazione-della-crisi#art74)**).
+
+
+
+Tra le procedure di composizione della crisi da sovraindebitamento, una delle novità introdotte dal Codice della crisi d’impresa e dell’insolvenza, è il concordato minore disciplinato dal D.Lgs. 14/2019, Sezione III. 
+
+Interessati da tale procedura sono i soggetti, indicati nel sopra menzionato art. 2, comma 1, lett. c, che si trovano in una situazione di sovraindebitamento, ==ad eccezione del consumatore==, i quali possono proporre ai creditori, mediante l’OCC, una proposta di concordato minore quando il piano consentirà loro di proseguire l’attività imprenditoriale o professionale. Inoltre, la proposta di concordato minore può essere presentata quando vi sia l’intervento di risorse esterne che forniscono la garanzia della continuazione dell’attività ed il soddisfacimento dei creditori, in misura maggiore rispetto a quanto questi potrebbero ottenere, mediante la liquidazione che aumentino in modo apprezzabile la soddisfazione dei creditori. 
+
+Tale procedura ==consente al piccolo imprenditore di ridurre la propria posizione debitoria, continuando ad esercitare l’attività imprenditoriale o professionale==. 
+>Dunque il concordato con finalità liquidatorie assume un ruolo residuale rispetto al concordato minore.
+
+
+### Contenuto della domanda e sua presentazione
+Il soggetto che intende avvalersi del concordato minore dovrà ==allegare alla domanda una serie di documenti contabili e fiscali==, indicati specificamente nell’**[art. 75 del D.Lgs. 14/2019](https://www.altalex.com/documents/leggi/2019/02/15/codice-crisi-impresa-strumenti-di-regolazione-della-crisi#art75)**. In particolare, il debitore dovrà produrre i bilanci, le dichiarazioni dei redditi riguardanti i tre anni precedenti alla richiesta ovvero gli ultimi esercizi precedenti se l'attività ha avuto una durata inferiore; una relazione aggiornata sulla situazione economica, patrimoniale e finanziaria; l'elenco dei creditori, con l’indicazione delle rispettive cause di prelazione e degli importi dovuti; gli atti di amministrazione straordinaria degli ultimi cinque anni; la documentazione relativa agli stipendi, pensioni, salari ed altre entrate del debitore e della famiglia, con l'indicazione di quanto occorra al mantenimento della stessa. A ciò si aggiunga che, ==si può precisare che i crediti privilegiati, muniti di pegno o ipoteca possano essere soddisfatti parzialmente purché ne venga garantito il pagamento in misura non inferiore a quella realizzabile==, in virtù della posizione preferenziale sul ricavato in caso di liquidazione, tenendo presente il valore di mercato dei beni o dei diritti sui quali insiste la causa di prelazione.
+
+Nella procedura di concordato minore assume un ruolo fondamentale l’==Organismo di Composizione della Crisi== (OCC) del circondario del tribunale competente ai sensi dell'articolo 27, comma.
+La ==formulazione e la presentazione della domanda avviene tramite detto Organismo==, che dovrà redigere una ==relazione a corredo della domanda==. Tale resoconto dovrà contenere: l'indicazione delle cause dell'indebitamento e della diligenza del debitore nell'assumere le obbligazioni; l'esposizione delle ragioni dell'incapacità del debitore di adempiere le obbligazioni assunte; l'indicazione della eventuale esistenza di atti del debitore impugnati dai creditori; la valutazione circa la completezza ed attendibilità della documentazione depositata insieme alla domanda, nonché la verifica della convenienza del piano rispetto alla liquidazione; l'indicazione ipotizzabile dei costi della procedura; la percentuale, le modalità e i tempi di soddisfacimento dei creditori; i criteri adottati nella formazione delle classi, se indicate nella proposta.
+
+Entro sette giorni dal conferimento dell'incarico da parte del debitore, l'OCC, deve darne comunicazione all'agente della riscossione e agli uffici fiscali, anche degli enti locali, i quali dovranno comunicare il debito tributario accertato, nonché gli accertamenti eventualmente pendenti, entro quindici giorni.
+
+Occorre precisare che ==il solo deposito della domanda sospende, ai soli effetti del concorso, la decorrenza degli interessi convenzionali o legali== fino alla chiusura della liquidazione, a meno che i crediti non siano garantiti da ipoteca, pegno o privilegio, salvo quanto previsto dagli **[articoli 2749](https://www.altalex.com/documents/news/2014/03/27/della-responsabilita-patrimoniale-cause-di-prelazione-garanzia-patrimoniale#art2749)**, **[2788](https://www.altalex.com/documents/news/2014/03/27/della-responsabilita-patrimoniale-cause-di-prelazione-garanzia-patrimoniale#art2788)** e **[2855](https://www.altalex.com/documents/news/2014/03/27/della-responsabilita-patrimoniale-cause-di-prelazione-garanzia-patrimoniale#art2855)**, commi secondo e terzo, del codice civile.
+
+Infine, ==detto procedimento si svolgerà dinanzi al tribunale in composizione monocratica==. Il Giudice adìto potrà dichiarare la domanda inammissibile qualora sia priva dei documenti indicati negli **[articoli 75](https://www.altalex.com/documents/leggi/2019/02/15/codice-crisi-impresa-strumenti-di-regolazione-della-crisi#art75)** e **[76](https://www.altalex.com/documents/leggi/2019/02/15/codice-crisi-impresa-strumenti-di-regolazione-della-crisi#art76)**, o se il debitore presenta requisiti dimensionali che eccedono i limiti di cui all'articolo 2, comma 1, lettera d), numeri 1), 2) e 3), o se è già stato esdebitato nei cinque anni precedenti la domanda o ha già beneficiato dell'esdebitazione per due volte oppure se sono stati compiuti dal debitore atti di frode nei confronti dei creditori.
+
+### Procedimento
+Dopo aver verificato l’==ammissibilità della domanda==, il giudice, ==con decreto dichiarerà aperta la procedura== ed ordinerà all'OCC di dare comunicazione della proposta e del decreto, a tutti i creditori. In particolare, il giudice con detto decreto, prevede una serie di divieti ed incombenze, quali: la pubblicazione del decreto su apposito spazio del sito web del tribunale o del Ministero della giustizia e nel registro delle imprese se il debitore svolge attività d'impresa; nel caso di cessione o di affidamento a terzi di beni immobili o beni mobili registrati, ordina la trascrizione del decreto presso gli uffici competenti; assegna ai creditori un termine entro il quale devono fare pervenire all'OCC, a mezzo posta elettronica certificata, la dichiarazione di adesione o di mancata adesione alla proposta di concordato e le eventuali contestazioni; inoltre, su istanza del debitore, dispone che, sino a quando il provvedimento di omologazione diventa definitivo, creditori aventi titolo o causa anteriore non potranno iniziare o continuare azioni esecutive individuali ne' disposti sequestri conservativi ne' acquistati diritti di prelazione sul patrimonio del debitore. L'esecuzione del decreto sarà a cura dell’OCC.
+
+Il creditore dovrà fornire un indirizzo di posta elettronica certificata ove questo potrà ricevere tutte le comunicazioni, altrimenti esse saranno effettuate mediante deposito in cancelleria.
+
+Inoltre, gli ==atti che eccedono l'ordinaria amministrazione compiuti senza l'autorizzazione del giudice sono inefficaci rispetto ai creditori anteriori== al momento in cui e' stata eseguita la pubblicità del decreto.
+
+Per quanto riguarda l'approvazione ==il concordato minore è accettato dai creditori che rappresentano la maggioranza dei crediti ammessi al voto, senza considerare i creditori muniti di privilegio, pegno o ipoteca, dei quali la proposta prevede l'integrale pagamento, a meno che non rinuncino in tutto o in parte al loro diritto di prelazione.==
+
+Inoltre, i creditori soddisfatti parzialmente sono equiparati ai chirografari per la parte residua del credito. Non possono votare né sono contati per il raggiungimento della maggioranza, il coniuge, la parte dell'unione civile e il convivente di fatto del debitore, i parenti e gli affini del debitore entro il quarto grado, nonché i cessionari o aggiudicatari dei loro crediti da meno di un anno prima della domanda.
+
+Ai creditori sono concessi 30 giorni di tempo per far pervenire all'OCC la ==dichiarazione di adesione o mancata adesione alla proposta, nel caso in cui non abbiano dato alcuna comunicazione, si intende che abbiano acconsentito consenso alla proposta nei termini in cui e' stata loro trasmessa, per cui è prevista la regola del silenzio assenso.==
+
+E’ bene precisare che il concordato minore della società produce i suoi effetti anche per i soci illimitatamente responsabili.
+
+In ogni caso, il concordato minore non pregiudica i diritti dei creditori nei confronti dei coobbligati, fideiussori del debitore e obbligati in via di regresso, a meno che sia previsto diversamente.
+
+Il concordato minore è approvato dai creditori che rappresentano la maggioranza dei crediti ammessi al voto, senza considerare i creditori muniti di privilegio, pegno o ipoteca.
+
+Il tribunale, dopo aver verificato l’ammissibilità e la fattibilità del piano ed il raggiungimento della maggioranza richiesta, in assenza di contestazioni, omologa il concordato con sentenza, dichiarando conclusa la procedura.
+
+In caso di contestazioni del piano da parte dei creditori o da parte di qualunque altro soggetto interessato==, l’omologa è possibile solo laddove il tribunale ritenga ritiene che il credito dell'opponente possa essere soddisfatto dall'esecuzione del piano in misura non inferiore a quello che otterrebbero in caso di liquidazione dei beni==. Il creditore che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento, non può presentare opposizione o reclamo in sede di omologa, anche se dissenziente
+
+Se il giudice rigetta la domanda di omologa, dichiara con decreto motivato l'inefficacia delle misure protettive accordate e, su apposita istanza del debitore, dichiara aperta la procedura di liquidazione controllata ai sensi degli articoli 268 e seguenti.
+
+# 6. Revoca
+
+La revoca l'omologazione può avvenire d'ufficio o su istanza di un creditore, del pubblico ministero o di un altro interessato, quando si verifica una delle seguenti condizioni. In particolare, se e' stato dolosamente o con colpa grave aumentato o diminuito il passivo, o se sia stata sottratta o dissimulata una parte rilevante dell'attivo ovvero quando sono state dolosamente simulate attività inesistenti o quando risultano commessi altri atti diretti a frodare i creditori. La domanda di revoca non può essere decorsi sei mesi dall'approvazione del rendiconto.
+
+Prima di procedere alla revoca, il giudice deve sentire le parti, anche mediante scambio di memorie scritte e provvede alla revoca con sentenza reclamabile, o rigetta la richiesta con decreto motivato.
+
+# 7. Conversione in procedura liquidatoria
+
+In caso di revoca o risoluzione, il debitore può chiedere l’ammissione alla procedura di liquidazione controllata. In caso di conversione, il giudice concede al debitore un termine per l'integrazione della documentazione e provvede ai sensi dell'**[articolo 270](https://www.altalex.com/documents/leggi/2019/02/15/codice-crisi-impresa-liquidazione-controllata-del-sovraindebitato#art270)**.

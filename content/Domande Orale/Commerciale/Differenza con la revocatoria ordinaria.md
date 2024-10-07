@@ -1,0 +1,14 @@
+La nostra Suprema Corte non ha peraltro mancato di eviden-
+ziare come l’azione revocatoria esercitata nell’ambito del fallimento
+sia, in ogni caso, « essenzialmente destinata a svolgere una funzione
+servente nella procedura esecutiva concorsuale » (così Cass., sez. un.,
+7 febbraio 2007, n. 2692): il che ne giustifica le differenze rispetto
+all’azione revocatoria esercitata al di fuori della procedura fallimen-
+tare (v. Cass., sez. un., 23 novembre 2018, n. 30416).
+
+1. mentre l’azione revocatoria esercitata al di fuori del fallimento è ==promossa dal singolo creditore ed avvantaggia lui solo== (art. 2902 c.c.) — la legittimazione a far valere, in sede fallimentare, gli strumenti di conservazione della garanzia patrimoniale compete invece, in via esclusiva, al ==curatore==, il quale — ovviamente — ==agisce a vantaggio di tutti i creditori==
+2. In secondo luogo — mentre l’azione revocatoria ordinaria colpisce solo atti del debitore (art. 2901, comma 1, c.c.) — ==la revocatoria fallimentare colpisce, invece, anche atti (ad es., l’iscrizione di ipoteca giudiziale) che incidono sulla garanzia patrimoniale senza il concorso del debitore==.
+3. In terzo luogo, ==la revocatoria fallimentare ha un oggetto più ampio di quella ordinaria==: così, ad es. — mentre non è soggetto a revocatoria ordinaria l’==adempimento di un debito scaduto== (art. 2901, comma 3, c.c.) — assoggettato a revocatoria fallimentare è anche il pagamento di debiti liquidi ed esigibili (art. 67, comma 1 n. 2, e comma 2, L.F.
+4. Ancóra: mentre presupposto dell’azione ==revocatoria ordinaria è il c.d. eventus damni== (art. 2901, comma 1, c.c.), la legge fallimentare ricollega l’inefficacia dell’atto alla ==sola circostanza che lo stesso sia stato compiuto nel c.d. periodo sospetto== — a seconda dei casi, i sei mesi, l’anno o i due anni anteriori alla dichiarazione di fallimento — fissato dalla legge, senza far espressa menzione dell’eventus damni
+5. Non basta: mentre l’azione revocatoria ordinaria ha come suo presupposto anche la c.d. scientia fraudis del debitore (art. 2901, comma 1 n. 1, c.c.), siffatto requisito non è richiesto per la revocatoria fallimentare.
+6. Si aggiunga che — mentre chi agisce in revocatoria ordinaria è gravato, se l’atto revocando è a titolo oneroso, dall’onere (normal- mente, di difficile assolvimento) di fornire la prova della c.d. scientia fraudis del terzo (art. 2901, comma 1 n. 2, c.c.) — in sede di revocatoria fallimentare: per atti a titolo gratuito (art. 64 L.F.) e anche i pagamenti c.d. anticipati (art. 65 L.F.) è irrilevante lo stato soggettivo del terzo; per una residua categoria di atti vale la regola generale che fa gravare sul curatore che agisce in revocatoria l’onere di provare — peraltro anche semplicemente mediante ricorso a presunzioni—la c.d. scientia decoctionis del terzo: ossia, « che l’altra parte conosceva lo stato di insolvenza del debitore »

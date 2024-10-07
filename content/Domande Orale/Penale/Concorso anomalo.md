@@ -1,0 +1,17 @@
+>Qualora il reato commesso sia diverso da quello voluto da taluno dei concorrenti, anche questi ne risponde se l'evento è conseguenza della sua azione o omissione. Se il reato commesso è più grave di quello voluto, la pena è diminuita con riguardo a chi volle il reato meno grave
+
+E' una **forma peculiare di aberratio delicti**. Le differenze sono state evidenziate dalla dottrina:
+- nell'aberratio delicti (83 cp), l'evento diverso realizzato deve essere il risultato di un errore nell'uso nei mezzi di esecuzione (errore-inabilità) o effetto di altra causa, mentre nel 116 cp l=='evento è voluto da almeno uno dei correi==
+- Nell'aberratio delicti non è richiesta la prevedibilità dell'evento, elemento su cui si è invece focalizzata l'elaborazione dottrinale e giurisprudenziale
+
+
+Il concorso anomalo ha sollevato dubbi di compatibilità con il principio di necessaria colpevolezza (art. 27 Cost.)
+- Corte Cost. 42/1965 ha rigettato la questione di incostituzionalità, prospettando un'interpretazione costituzionalmente orientata: lil reato diverso da quello. voluto deve rappresentare un "==prevedibile omogeneo sviluppo dell'azione concordata==", evocando dunque anche in questo caso la necessità di un minimo coefficiente psicologico della condotta insito nel carattere "prevedibile" dell'offesa realizzata. Occorre pertanto che la responsabilità sia affermata anche sulla base di un rapporto di causalità psichica, il reato più grave deve potersi rappresentare nella psiche dell'agente, nell'ordinario svolgersi e concatenarsi dei fatti umani.
+- Tesi della prevedibilità in concreto: Cass. 7388/2005 (strage di Gioia Tauro): il concorso anomalo si colloca a metà tra l'imprevedibilità del reato diverso (e quindi l'irresponsabilità) e il dolo eventuale (all'epoca inteso come accettazione del rischio). La ==valutazione va operata in concreto==, tenendo conto di tutte le specificità del fatto concreto realizzato. Si supera il criterio astratto della prevedibilità logica del reato diverso, assegnando rilevanza ad elementi fattuali legati alla fattispecie concreta
+- Prevedibilità in astratto (maggioritaria, ma in contrasto con il principio di colpevolezza) 37940/2006 (conf. in 3764/2009) (criterio astratto) afferma che il reato diverso da sarà imputabile ai concorrenti ogniqualvolta non risulti che questi abbiano aderito alla sua commissione eovvero sia derivato da fattori imprevedibili
+
+In definitiva, dall'evoluzione giurisprudenziale si evincono i ==requisiti della responsabilità a titolo di concorso anomalo==
+- la sussistenza di un **nesso causale** (sul piano materiale) tra condotta del compartecipe e reato diverso da quello voluto;
+- il reato diverso deve porsi come **sviluppo logicamente prevedibile** del reato programmato
+- l'evento non deve essere voluto a titolo di dolo, neppure eventuale ((quindi il reato più grave non deve essere stato rappresentato come possibile conseguenza del programma criminoso), altrimenti si avrebbe concorso doloso (110 cò)
+- l'evento diverso rispetto a quello programmato **non deve essere atipico** (ossia non deve essere conseguenza di circostanze eccezionali e non ricollegabili all'azione del partecipe) -> in questo caso verrebbe meno lo stesso nesso di causalità tra contributo del concorrente e diverso reato realizzato

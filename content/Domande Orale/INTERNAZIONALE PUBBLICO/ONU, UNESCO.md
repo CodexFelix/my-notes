@@ -1,0 +1,68 @@
+Attualmente l’attività delle organizzazioni raramente va oltre la predisposizione di progetti di convenzioni o oltre attività tese a facilitare la collaborazione e la solidarietà tra gli Stati aderenti, che poi sono liberi di tradurre al proprio interno, con la ratifica, le norme convenzionali, o ancora oltre l’emanazione di raccomandazioni non vincolanti dal mero valore esortativo.
+
+Le risoluzioni delle organizzazioni internazionali possono essere adottate a maggioranza, semplice o qualificata, o all’unanimità. Ora si è diffusa anche la pratica del **consensus**, che consiste nell’approvare una risoluzione, non con votazione formale, ma con dichiarazione del presidente dell’organismo che attesta l’accordo tra i membri.
+
+### ONU
+L’**ONU**, **Organizzazione delle Nazioni Unite**, è stata fondata il 26 giugno 1945 con la Conferenza di San Francisco che elaborò la Carta dell’organismo al quale, oltre agli Stati vincitori della Seconda Guerra Mondiale che lo fondarono, via via aderirono quasi tutti i Paesi del mondo (ultimi ingressi Svizzera e Timor Est nel 2003).
+
+![[Pasted image 20240915233952.png]]
+
+**Organi principali** dell’Onu sono:
+
+- **Consiglio di Sicurezza**: composto da 15 membri. 5 (Stati Uniti, Russia, Cina, Gran Bretagna, Francia) sono permanenti con diritto di veto, ossia il voto negativo che impedisce l’adozione di delibere che non abbiano mero carattere procedurale; altri 10, eletti dall’Assemblea Generale, in carica per due anni. Ha una competenza su questioni attinenti al mantenimento della pace e della sicurezza internazionale e dispone in certi casi di poteri decisionali vincolanti.
+- **Assemblea Generale**: vi fanno parte i rappresentanti di tutti gli Stati membri con pari diritto di voto e alcuni osservatori. Ha una competenza vastissima, ma uno scarso potere vincolante.
+- **Consiglio Economico e Sociale**: si compone di membri eletti dall’Assemblea per tre anni. E’ in posizione subordinata all’Assemblea, in quanto ne segue le direttive e, a volte, prepara atti che poi vengono adottati da quella.
+- **Consiglio di Amministrazione Fiduciaria**: in passato ha svolto il controllo sulle amministrazioni dei territori coloniali e ora ha funzione simili al Consiglio Economico e Sociale.
+- **Segretario Generale**: nominato dall’Assemblea su proposta del Consiglio di Sicurezza. E’ a capo del **Segretariato** che è l’organo esecutivo dell’Onu.
+- **Corte Internazionale di Giustizia**: composta da 15 giudici, dirime le controversie tra gli Stati. Ha anche funzione consultiva, potendo dare pareri non vincolanti, su richiesta, all’Assemblea, al Consiglio di Sicurezza e ad altri organi autorizzati dall’Assemblea.
+
+Consiglio di Sicurezza, Assemblea Generale e Consiglio Economico sono ==organi composti da Stati==. I soggetti che ne fanno parte, nelle decisioni collegiali manifestano la volontà del proprio Stato. 
+Il Segretario e la Corte, ==invece, sono composti da individui== che assumono l’ufficio a titolo personale con l’obbligo di non ricevere istruzioni da alcun Governo.
+
+
+Qualora vi sia necessità, la Carta dell’Onu prevede la possibilità di istituire ==**organi sussidiari**== delle Nazioni Unite. Ve ne sono numerosi, permanenti o temporanei con poteri non vincolanti, in varie materie (pace, disarmo, diritti umani, codificazione del diritto internazionale. Ve ne sono molti nel campo della collaborazione economica con funzioni normative o operative. Tra essi ricordiamo:
+- **Unctad** (Conferenza sul Commercio e lo Sviluppo) che ha preparato la Carta dei diritti e dei doveri economici degli Stati, poi approvata dall’Assemblea.
+- **Undp** (Programma per lo Sviluppo) che ha il compito di approvare programmi presentati dai singoli Stati, di stanziare i relativi fondi e di sovrintendere all’esecuzione dei progetti relativi.
+- **Unicef** (Fondo per l’Infanzia).
+- **Unhcr** (Alto Commissariato per i Rifugiati).
+- **Unitar** (Istituto per l’Insegnamento e la Ricerca).
+- **Unep** (Programma per l’Ambiente).
+
+Tolto l’obbligo, espresso dall’art. 1 della Carta, a non intervenire nelle questioni di competenza interna degli Stati, i ==**compiti dell’Onu**== sono ampi e indeterminati, raggruppabili in tre settori:
+- **mantenimento della pace**;
+- **sviluppo delle relazioni amichevoli tra gli Stati**, basate sul rispetto del principio dell’eguaglianza dei diritti e dell’autodeterminazione dei popoli;
+- **collaborazione** **e cooperazione** in campo economico, sociale, culturale e umanitario.
+
+In ==genere, i poteri dell’Onu non sono vincolanti==. La sua principale attività è quella di emanare raccomandazioni e di predisporre progetti di convenzioni. Comunque, **poteri vincolanti** spettano raramente all’Assemblea, che di solito, più che un organo legislativo, è un _forum_ di discussione, e al Consiglio di Sicurezza.
+
+Per l’**Assemblea,** questi poteri si riscontrano nella ripartizione, con maggioranza di due terzi, delle ==spese dell’organizzazione, vincolante== per tutti gli Stati (Carta art. 17). La questione ha provocato in passato forti contestazioni, soprattutto nella norma che prevede la sospensione del voto in Assemblea per lo Stato in ritardo di due annualità nei contributi. Obbligatorietà, in base ad una consolidata consuetudine, è assegnata alle decisioni su modalità e tempi per la concessione dell’indipendenza ai territori sotto dominio coloniale.
+
+
+==Gli atti vincolanti del **Consiglio di Sicurezza**== sono previsti dal cap. VII della Carta (artt. 39 e ss.). In particolare, sono importanti:
+- **misure non implicanti l’uso della forza** (art. 41) contro uno Stato che abbia anche solo minacciato la pace. In base a tale norma il Consiglio di Sicurezza può irrogare ==**sanzioni** contro uno Stato che violi o minacci la pace== internazionale o anche solo per comportamento interno a tutela della popolazione civile. Le sanzioni, imponibili anche contro parti armate in un conflitto civile, sono revocate o sospese, quando cessano i motivi dell’adozione. Si tratta dell’interruzione totale o parziale delle relazioni economiche, delle comunicazioni ferroviarie, marittime, aeree, postali, telegrafiche e altre e della rottura delle relazioni diplomatiche.
+- **misure implicanti l’uso della forza** (art. 42) contro uno Stato che abbia anche solo minacciato la pace. Quest’ultima norma prevede l’intervento bellico contro e all’interno di uno Stato.
+
+### Istituti specializzati dell'ONU
+All’attività dell’Onu si affianca quella degli **Istituti specializzati** delle Nazioni Unite. Si tratta di ==organizzazioni sorte da trattati distinti da quello dell’Onu== e i cui Stati membri possono o meno coincidere con quelli delle Nazioni Unite. La contiguità si crea in base ad un ==accordo di collegamento tra le due organizzazioni==, che prevede lo scambio di rappresentanti, di osservatori, di documenti, la reciproca consultazione, il coordinamento e l’obbligo per l’Istituto di prendere almeno in esame le raccomandazioni dell’Onu e di osservare le norme della Carta, allo scopo di garantire il potere di coordinamento e controllo da parte dell’Onu.
+
+Anche queste istituzioni emanano raccomandazioni e predispongono progetti di convenzione. Le loro decisioni sono adottate a maggioranza e diventano vincolanti se gli Stati, entro un certo periodo, non manifestano la volontà di ripudiarle. Si tratta spesso di decisioni tecniche, vincolanti proprio perché sono inquadrabili come fonti previste dall’accordo istitutivo dell’organizzazione. Gli Istituti svolgono anche attività operative: assistenza tecnica, aiuti, prestiti, ecc.
+
+Ecco ora un elenco degli Istituti specializzati esistenti:
+- **Fao** (Organizzazione per l’Alimentazione e l’Agricoltura). Creata nel 1945, svolge attività di ricerca e informazione, per promuovere l’esecuzione di programmi agricoli e alimentari a favore soprattutto dei Paesi in sviluppo e del Terzo Mondo.
+- **Ilo** (Organizzazione Internazionale del Lavoro). La particolare struttura dell’organo assembleare, la Conferenza Generale, costituita da quattro delegati per Stato, due in rappresentanza del governo, uno dei datori di lavoro, uno dei lavoratori, fa sì che le maggioranze possano formarsi per il collegamento tra gruppi politicamente affini, più che per intese tra Stati. Svolge la sua attività in materia di lavoro e ha contribuito allo sviluppo di norme a tutela dei lavoratori. Emana raccomandazioni e predispone progetti di convenzione. I progetti, approvati a maggioranza di due terzi della Conferenza Generale, vengono comunicati agli Stati membri che sono liberi di ratificarli o meno. Essi però sono obbligati entro un certo termine a sottoporli, comunque, agli organi competenti per la ratifica e a informare il Direttore Generale dell’Ilo sulla sorte da essi subita.
+- **Unesco** (Organizzazione per l’Educazione Scientifica e la Cultura). ==Promuove la diffusione della cultura e lo sviluppo dei mezzi di educazione== all’interno degli Stati membri, senza distinzione di razza, sesso, condizione economica o sociale. Si propone anche la conservazione del patrimonio artistico e scientifico mondiale. Ogni Stato può farsi rappresentare da cinque membri, ma dispone di un solo voto.
+- **Icao** (Organizzazione Internazionale dell’Aviazione Civile). Emana disposizioni tecniche (dette _standard internazionali_ o _pratiche raccomandate_) sull’organizzazione del traffico aereo civile. Le decisioni, a differenza dell’Ilo e dell’Unesco, sono vincolanti per tutti gli Stati membri, compresi quelli dissenzienti.
+- **Who** (Organizzazione Mondiale della Sanità). Suo obiettivo principale è il conseguimento da parte di tutti i popoli del livello più alto di salute possibile. Emana raccomandazioni, disposizioni, progetti di convenzione, per prevenire epidemie, conoscere malattie mortali e diffondere l’uso dei farmaci. Svolge anche un’intensa opera di assistenza tecnica e le sue decisioni hanno un certo potere vincolante.
+- **Imo** (Organizzazione Internazionale Marittima). Si occupa dei problemi relativi alla sicurezza e all’efficienza dei traffici marittimi.
+- **Itu** (Unione Internazionale per le Telecomunicazioni).
+- **Wmo** (Organizzazione Mondiale Meteorologica).
+- **Upu** (Unione Postale Universale). Contribuiscono al coordinamento delle attività statali nei settori di rispettiva competenza. I regolamenti di Wmo e Upu non vincolano lo Stato dissenziente. Per quanto riguarda l’Itu, le revisioni periodiche dei due regolamenti amministrativi sulle telecomunicazioni e sulle radiocomunicazioni, adottate a maggioranza semplice, vincolano tutti gli Stati membri che non si dichiarano dissenzienti all’atto dell’adozione o entro un certo termine.
+- **Imf** (Fondo Monetario Internazionale). E’ costituito da quote di capitale sottoscritte da ciascuno Stato membro. L==’entità della partecipazione determina la forza del voto==. E’ un’organizzazione controllata dai Paesi ricchi, quindi, e in particolare dagli Usa. Gli Stati membri possono ricorrere al prestito dell’Imf, per far fronte a squilibri nella propria bilancia dei pagamenti, con condizioni concordate che comportano anche l’adozione di piani nazionali di risanamento.
+- **Ibrd** (Banca Internazionale per la Ricostruzione e lo Sviluppo). Ha un capitale sottoscritto dagli Stati membri e può procurarsi capitali ulteriori tramite l’emissione di obbligazioni. Suo scopo è la concessione agli Stati membri o a privati di mutui garantiti da uno dei Paesi aderenti, a tassi di interesse variabili in funzione del grado di sviluppo del Paese debitore.
+- **Ifad** (Fondo Internazionale per lo Sviluppo Agricolo). Ente finanziario che contribuisce con aiuti e prestiti allo sviluppo agricolo dei Paesi poveri. L’organizzazione ricalca quella dell’Imf e dell’Ibrd, ma il suo controllo è nelle mani dei Paesi in sviluppo e dei Paesi dell’Opec.
+- **Wipo** (Organizzazione Mondiale per la Proprietà Intellettuale). Si occupa di tutela del diritto d’autore e dei brevetti in campo industriale, letterario e artistico, cooperando con le altre organizzazioni internazionali del settore e fornendo assistenza tecnica e legale agli Stati.
+- **Unido** (Organizzazione per lo Sviluppo Industriale). Promuove programmi e studi su problemi dell’industrializzazione dei Paesi in sviluppo, fornendo assistenza tecnica e consulenza nell’applicazione delle innovazioni tecnologiche.
+- **Iaea** (Agenzia Internazionale per l’Energia Atomica). Promuove lo sviluppo dell’energia atomica a scopi pacifici, coadiuvando l’Onu nei controlli dei Paesi che potrebbero usarla a scopi bellici.
+- **Wto** (Organizzazione Mondiale del Commercio). E’ un organismo indipendente dall’Onu creato nel 1994. Ha lo scopo di favorire, attraverso tavoli negoziali, la massima liberalizzazione del commercio mondiale (globalizzazione). Questi negoziati prima si svolgevano in seno al Gatt (Accordo Generale sulle Tariffe e il Commercio) e sono stati poi annessi allo Statuto del Wto. I suoi organi possono emettere decisioni vincolanti e anche fornire interpretazioni delle norme dello Statuto. In caso di inadempienza può adottare contromisure e fa da arbitro nelle controversie nascenti dagli accordi che fanno capo ad essa.
+
+- **Organismi per la** **tutela dell’ambiente e per la** **conservazione delle risorse**. Si tratta di numerose Convenzioni o trattati che non si manifestano in vere e proprie organizzazioni, ma assegnano un potere normativo alla conferenza o all’assemblea degli Stati contraenti. Le decisioni possono essere vincolanti per gli Stati membri, derivando la loro forza cogente dal trattato istitutivo; il che le qualifica come fonti di norme internazionali di terzo grado.

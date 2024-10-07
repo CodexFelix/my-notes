@@ -1,0 +1,103 @@
+### Requisiti formali e regime sanzionatorio per vizi formali e procedurali
+Il licenziamento deve essere conforme ai requisiti formali e procedurali indicati dalla legge, onde garantire al lavoratore di poter esercitare compiutamente il diritto di difesa e, al datore, di compiere consapevolmente un atto radicale per gli effetti prodotti sul rapporto di lavoro stesso.
+
+>1. Il datore di lavoro, imprenditore o non imprenditore, deve comunicare per iscritto il licenziamento al prestatore di lavoro  
+>2. La comunicazione del licenziamento deve contenere la specificazione dei motivi che lo hanno determinato
+>3. Il licenziamento intimato senza l'osservanza delle disposizioni di cui ai commi 1 e 2 è inefficace. 
+>4. Le disposizioni di cui al comma 1 e di cui all'art. 9 si applicano anche ai dirigenti
+
+Il licenziamento è innanzitutto **atto recettizio a forma scritta _ad substantiam_**. Secondo quanto previsto dall’art. 2, co. 1 e 2, Legge n. 604/66, come modificato dalla Legge n. 92/2012, il datore di lavoro, imprenditore o non imprenditore, indipendentemente dal contesto dimensionale, ==deve  comunicare per iscritto al prestatore di lavoro – compresi i dirigenti - l'atto di recesso, ==contestualmente ai motivi che lo determinano, **pena l'inefficacia** del licenziamento stesso.
+
+La giurisprudenza ha ritenuto assolto il requisito della forma scritta anche nel caso di licenziamento comunicato a mezzo messaggio whatsapp o anche via sms, equiparando la messaggistica telefonica al fax. L'onere di intimare il licenziamento in forma scritta può essere assolto tramite qualsiasi mezzo, anche informatico, che permetta al lavoratore di imputare con certezza la comunicazione al datore di lavoro. E' quindi necessario che sia certa la provenienza dell'autore della dichiarazione.
+
+==Il licenziamento intimato oralmente deve ritenersi inefficace==. La sanzione dell'inefficacia e la applicazione della ==tutela reintegratoria== (reintegra nel posto di lavoro) e condanna al datore di lavoro al pagamento delle retribuzioni dal giorno del licenziamento sino alla reintegra costituisce una ==regola comune sia per il contratto di lavoro subordinato== (art. 18 c. 1 l. 300/70, come novellato dalla l. 92/12) ==sia per il contratto a tutele crescenti== (art. 2 dlgs 23/15).
+Il licenziamento orale è ritenuto dalla giurisprudenza tamquam non esset.
+
+##### Vizi formali del licenziamento (motivazione e procedura) - art. 18 c. 6 L. 300/70
+Il licenziamento deve essere **motivato**. Le ragioni che sorreggono il licenziamento devono essere contenute nell'atto scritto con cui viene intimato (art. 2 c. 2 così come riformato nel 2012)
+
+Il licenziamento deve essere intimato all'esito della **procedura** di cui all'art. 7 l. 300/70, ovvero nel caso di licenziamento per GMO nell'osservanza di cui all'art. 7 l. 604/66.
+==La violazione dei criteri formali e procedurali== è prevista dall'art. 18 c. 6L. 300/70 secondo cui "Nell'ipotesi in cui il licenziamento sia dichiarato inefficace per violazione del requisito di motivazione o della procedura di cui all'art. 7 della presente legge o della procedura ex art. 7 l. 604/66  ==si applica il regime di cui al quinto comma, ma con attribuzione al lavoratore di un'indennità risarcitoria onnicomprensiva==, determinata in base alla gravità delle violazione formale o procedurale commessa dal datore di lavoro tra un ==minimo di 6 e max 12 mensilità dell'ultima retribuzione globale di fatto==, con onere di specifica motivazione a tale riguardo, a meno che il giudice sulla base della domanda del lavoratore accerti che vi è anche difetto di giustificazione del licenziamento, nel qual caso applica le tutele di cui ai commi 4, 5 e 6"
+
+Nel caso di lavoratori assunti con contratto a tutele "crescenti" il d.lgs. 23/15 stabilisce che nell'ipotesi in cui il licenziamento sia intimato con violazione del requisito di motivazione o della procedura di cui all'art. 7 L. 300/70 il giudice dichiara ==estinto il rapporto di lavoro alla data del licenziamento== e condanna il datore di lavoro ad un ==indennità non assoggettata a contribuzione previdenziale== di importo pari a: 1 mensilità dell'ultima retribuzione di riferimento per il calcolo del TFR x ogni anno di servizio, in misura comunque 2< e > 12 mensilità.
+	La disposizione è stata dichiarata illegittima dalla C. cost con sent. 150/2020 
+
+Ipotesi di vizi formali:
+- violazione del requisito motivazionale (art. 2 c. 2 l. 604/66). Tale ipotesi ricorre quando la motivazione è incompleta, mentre dubbi sono stati posti in caso di mancanza
+- Vizi del procedimento di cui all'art. 7 l. 300/70 che rilevano in caso di licenziamento disciplinare. Essi possono essere enucleati in: mancata affissione del codice disciplinare, intempestività della contestazione disciplinare rispetto al fatto disciplinarmente rilevante ovvero rispetto a quanto previsto dalla contrattazione collettiva, inosservanza del termine a difesa, violazione del principio dell'immutabilità della contestazione
+- Nel caso di licenziamento per GMO la procedura prevista dall'art. 7 l. 604/66
+
+Per i lavoratori assunti con contratto a tutele crescenti permane la tutela meramente indennitaria per le violazioni formali/procedurali, con la precisazione che nel caso di licenziamento per GMO la mancata previsione della procedura formale dell'art. 7 l. 604/66 comporta l'espunzione della violazione procedurale. 
+Diverso è il regime delle tutele per i lavoratori assunti prima del 7 marzo 2015, ma soggetti a tutela obbligatoria perché dipendenti di imprese con meno di 15 dipendenti. In tal caso opera il regime di cui all'art. 8 l. 604/66: riassunzione o in alternativa risarcimento tra misura minima (2,5) e massima (6)
+### Licenziamenti nulli (art 18 c. 1)
+Licenziamenti sanzionati perché illegittimi.
+L'art. 18 c. 1 stabilisce che il giudice con la sentenza con cui dichiara illegittimo il licenziamento perché discriminatorio ovvero intimato in concomitanza col matrimonio o in violazione dei divieti di licenziamento (tutela e sostegno maternità e paternità) ovvero perché riconducibile ad altri casi di nullità previsti dalla legge o determinato da un motivo illecito determinante ai sensi dell'art. 1345 cc, ==ordina al datore di lavoro== la ==reintegrazione del lavoratore== nel posto di lavoro, indipendentemente dal motivo formalmente addotto e quale che sia il numero di dipendenti occupati. La presente disposizione si applica anche ai dirigenti
+
+==Accanto alla **reintegra** la disposizione prevede anche il risarcimento che è pieno==, perché la norma dispone che il giudice con la sentenza condanna anche al risarcimento del danno subito dal lavoratore per il licenziamento del danno subito per il licenziamento di cui sia stata accertata la nullità, stabilendo a tal fine un'==indennità commisurata all'ultima retribuzione globale di fatto maturata dal giorno del licenziamento fino a quello dell'effettiva reintegrazione==, dedotto quanto percepito per lo svolgimento di altre attività lavorative. In ogni caso la misura del risarcimento non potrà essere inferiore a 5 mensilità della retribuzione globale di fatto. Il datore di lavoro è condannato inoltre per il medesimo periodo al versamento dei contributi previdenziali e assistenziali
+
+La disciplina della nullità opera a prescindere dal regime dimensionale aziendale e involge tutti i lavoratori, anche i dirigenti, per i quali non opera il regime sanzionatorio di cui alla legge in commento.
+
+Ipotesi di licenziamento nullo:
+1. discriminatorio: al di là delle singole ipotesi discriminatorie previste dalla legge speciale, al fine di ricostruire unitariamente la categoria è necessario verificare: che il fattore di rischio sia tipizzato (es. età, orientamento sessuale, credo religioso) [tipicità del fattore di rischio]; il [carattere oggettivo della situazione svantaggiosa], per cui è irrilevante l'intento perseguito dalla parte; [comparazione] con il trattamento riservato ad altro lavoratore non portatore del fattore di rischio
+2. per causa di matrimonio: nel periodo tra la pubblicazione ed 1 anno dopo la celebrazione è presunto nullo. Il carattere assoluto della nullità comporta l'irrilevanza della conoscenza da parte del datore delle pubblicazioni. Il divieto opera solo per le lavoratrici; la limitazione è stata ritenuta non discriminatoria, in quanto coerente con la realtà sociale che ha reso necessarie misure a tutela della donna lavoratrice
+3. a causa di genitorialità
+4. per motivo illecito determinante (1345): rientrano in tale dizione i licenziamenti ritorsivi, ossia intimati a seguito di un comportamento legittimo tenuto dal lavoratore (es. proposizione di un'azione giudiziaria per rivendicazione di diritti in costanza del rapporto di lavoro)
+5. nullo nelle ipotesi previste dalla legge: es. frode alla legge (applicazione illegittima del dettato del 2112), stato di sieropositività, whistleblower
+	1. in ordine al licenziamento per whistleblowing il d.lgs. 24/2023 ha statuito la nullità del licenziamento con conseguente reintegra, il risarcimento del danno e l'ordine di cessazione della condotta posta in essere
+
+Ipotesi di licenziamento nullo nel contratto a tutele crescenti (post 2015)
+1. Discriminatorio (art. 15 l. 300/70)
+2. Nullo nelle ipotesi di legge
+3. Licenziamento il cui difetto di giustificazione trova argine nella disabilità fisica o psichica del lavoratore (art. 4 c. 4 e 10 c. 3 l. 608/99)
+Nel contratto a tutele crescenti, la tutela reintegratoria è affiancata dalla corresponsione di risarcimento parametrato alla retribuzione per il calcolo del TFR nel periodo dal giorno del licenziamento alla reintegra detratto l'aliunde perceptum per l'espletamento di altre attività lavorative durante l'estromissione (comunque non inferiore a 5 mensilità), oltre la regolarizzazione contributiva, previdenziale ed assicurativa.
+
+### Licenziamenti disciplinari
+La nozione di licenziamento disciplinare non è contenuta nel dato normativo.
+La dottrina e la giurisprudenza hanno da sempre considerato disciplinare il licenziamento intimato quale sanzione avverso una condotta del lavoratore avente rilevanza, appunto disciplinare.
+
+Nell'ambito della categoria dei licenziamenti disciplinari, che costituiscono la sanzione avverso l'inadempimento del prestatore modulabile in ordine alla gravità del licenziamento, rientrano:
+- **licenziamento per giusta causa**: fattore che non consente la prosecuzione, nemmeno provvisoria, del rapporto di lavoro perché comporta il venir meno dell'affidamento del datore sull'esattezza dei successivi adempimenti da parte del lavoratore (2119 cc)
+	- in caso di licenziamento per giusta causa ==il datore non è tenuto a rispettare il termine di preavviso==
+	- Rientrano nella nozione gli inadempimenti contrattuali particolarmente gravi, imputabili a titolo di dolo o cola al lavoratore (assenze ingiustificate, distruzione o sottrazione di beni aziendali, falsificazione della documentazione o delle spese ai fini del rimborso, grave e reiterata negligenza nell'esecuzione della prestazione); in secondo luogo gli atti o fatti attinenti alla sfera privata del lavoratore idonei a minare il rapporto di fiducia con il datore (come commissione di fatti di reato, se di natura tale da incidere sulle aspettative creditorie)
+	- La verifica della giusta causa deve essere effettuata dal giudice in concreto, tenendo in considerazione tutto il complesso delle circostanze fattuali verificatesi e le condizioni soggettive del datore di lavoro (es. nelle organizzazioni di tendenza integra eccezionalmente giusta causa anche la semplice incompatibilità del lavoratore rispetto all'indirizzo ideologico dell'ente)
+	- Nel caso in cui i contratti collettivi prevedano tipizzazioni del concetto di "giusta causa", il giudice deve tenerne conto ma non è comunque vincolato. L'elencazione delle ipotesi di giusta causa contenuta nei contratti collettivi ha valenza meramente esemplificativa e non esclude, perciò la sussistenza della giusta causa per un grave inadempimento o comportamento del lavoratore contrario alle norme della comune etica o del vivere civile alla sola condizione che tale grave inadempimento o tale grave comportamento abbia fatto venir meno il rapporto fiduciario tra datore e lavoratore.
+- **licenziamento per GMS**: inadempimento degli obblighi contrattuali notevoli ed imputabili a colpa del lavoratore (art. 3 l. 604/66) - definito soggettivo perché riconducibile a ragioni imputabili al singolo proprio come inadempimento notevole degli obblighi contrattuali.
+	- ==La differenza tra giusta causa e GMS è tanto quantitativa== (maggior gravità della prima) quanto qualitativa (la giusta causa può essere rinvenuta anche in condotte del lavoratore estranee agli obblighi contrattuali, mentre il GMS è ancorato alla non corretta esecuzione degli obblighi nascenti ex contractu)
+	- Se nel licenziamento per giusta causa non occorre alcun preavviso (c.d. licenziamento in tronco), in quello per GMS è invece imposto l'obbligo di preavviso.
+
+###### Regime giuridico dei licenziamenti disciplinari: tutela reale e obbligatoria
+Il regime delle tutele nel licenziamento disciplinare si distingue in ragione del requisito dimensionale dell'azienda:
+- Aziende > 15 dipendenti (tutela **reale**): art. 18 l. 300/70, differenziata nel senso che accanto a quella reintegratoria (c. 4), degradata da regola ad eccezione con la Riforma Fornero del 2012, si colloca quella esclusivamente indennitaria
+	- **Tutela reintegratoria**: reintegrazione per ==insussistenza del fatto contestato ovvero perché il fatto rientra tra le condotte punibili con una sanzione conservativa== sulla base delle previsioni dei contratti collettivi ovvero dei codici disciplinari applicabili. In questi casi il giudice accerta l'illegittimità del licenziamento e ==condanna il datore alla reintegra del lavoratore nel posto di lavoro e al pagamento in favore dello stesso di un'indennità risarcitoria pari all'ultima retribuzione globale== di fatto da cui dovrà essere decurtato l'aliquid perceptum.
+	- **Tutela indennitaria piena**: quando ,sussistendo la condotta disciplinarmente imputabile al lavoratore, la sanzione ==risulti illegittima o sproporzionata, a seguito della valutazione di aspetti esterni al fatto, ma propri della valutazione prognostica== propriamente intesa. Si tratta di circostanze che consentono di concludere positivamente o negativamente l'indagine circa la possibilità per il prestatore di lavoro di tenere una condotta conforme agli obblighi di legge e di contratto: eventuali precedenti disciplinari, recidiva, circostanze proprie del fatto in esame, anzianità. In tali ipotesi il giudice dichiara risolto il rapporto di lavoro e condanna il datore di lavoro al pagamento di un'==indennità risarcitoria compresa tra 12 e 24 mensilità della retribuzione globale di fatto== tenuto conto dell'anzianità di servizio del lavoratore, delle dimensioni aziendali, del comportamento e delle condizioni delle parti. La determinazione dell'ammontare dell'indennizzo è demandata in concreto al giudice che deve compierla tenendo conto dei parametri legali ed illustrando in motivazione le ragioni fondanti la stessa 
+- Aziende < 15 dipendenti (**obbligatoria**): condanna del datore alla ==riassunzione entro 3 gg o in mancanza risarcimento del danno versando al lavoratore un'indennità== di importo compreso tra un minimo di 2,5 e massimo 6 mensilità dell'ultima retribuzione globale di fatto, considerato il numero di dipendenti occupato, dimensioni dell'impresa, anzianità di servizio, comportamento e condizioni delle parti
+
+Nel contratto a tutele crescenti (lavoratori assunti post- 2015), la tutela reintegratoria diventa ancor più eccezionale:
+- ==reintegratoria solo ove sia dimostrata direttamente in giudizio l'insussistenza del fatto materiale contestato==. Sul punto la giurisprudenza ha chiarito che l'insussistenza del fatto materiale va intesa non solo come inesistenza del fatto nella sua materialità, ma anche di fatto materialmente accaduto ma privo di rilievo disciplinare. ==In questo caso il giudice annulla il licenziamento e condanna il datore alla reintegra nel posto di lavoro, nonché al pagamento di un'indennità risarcitoria commisurata all'ultima retribuzione di riferimento per il calcolo del TFR==. La misura dell'indennità risarcitoria relativa al periodo antecedente alla pronuncia di reintegrazione non può comunque superare 12 mensilità. 
+	- Al lavoratore è attribuita la facoltà di chiedere al datore di lavoro, in sostituzione della reintegrazione nel posto di lavoro, un'indennità pari a 15 mensilità dell'ultima retribuzione di riferimento per il calcolo del TFR.
+- Per datori con <15 dipendenti l'insussistenza del fatto comporta solo un indennizzo economico dimezzato 
+- In tutti gli altri casi in cui il giudice accerti che non sussistono gli estremi della giusta causa o del GMS, ai sensi dell'art. 3 Dlgs 23/2015 il giuidice è tento a dichiarare estinto il rapporto di lavoro dalla data del licenziamento e condannare il datore di lavoro al pagamento di un'indennità, non soggetta  a contribuzione previdenziale pari a 2 mensilità per ogni anno di servizio e comunque non inferiore a 6 e non superiore a 36 mensilità (il decreto dignità del 2018 ha innalzato gli importi che in precedenza erano 4 e 24 mesi)
+
+![[Pasted image 20240930182937.png]]
+### Licenziamenti per GMO
+Il licenziamento per ragioni obiettive è estrinsecazione della libertà di iniziativa economica
+Il GMO radica il suo fondamento nell'art. 3 L. 604/66 e ricomprende tutte le ragioni inerenti all'attività produttiva, all'organizzazione del lavoro e al regolare funzionamento della stessa.
+Trova normalmente causa nella necessità di sopprimere un posto di lavoro in conseguenza di scelte che riguardano l'attività produttiva, l'organizzazione del lavoro o il regolare funzionamento dell'azienda: la risoluzione del rapporto è intimata se non vi è possibilità di reimpiegare il lavoratore.
+Le ragioni che possono fondare questo tipo di risoluzione possono essere quindi di carattere propriamente economico (riduzione dei costi o incremento dei profitti) o di carattere tecnico-produttivo (aumento dell'efficienza del lavoro e della produzione).
+A dispetto di contrastanti orientamenti giurisprudenziali di merito e legittimità, deve ritenersi un dato acquisito la legittimità di un licenziamento intimato per una scelta funzionale a una più remunerativa gestione dell'impresa, ==anche in assenza di una situazione di crisi aziendale==
+La soppressione può consistere nella c.d. "soppressione del posto", derivante non dalla integrale eliminazione di tutte le tipologie di mansioni originariamente attribuite al prestatore licenziato o dalla "soppressione delle mansioni", ossia di tutte le mansioni del lavoratore licenziato.
+
+In caso di contestazioni circa la sussistenza del GMO, il giudice, fermo il divieto di sindacare il merito delle scelte imprenditoriali, considerata la riserva costituzionale, ==deve limitarsi ad un'analisi estrinseca che le esigenze aziendali siano effettive e che sussista un nesso di causalità== tra le stesse e il recesso del datore. 
+La ricorrenza del motivo oggettivo si fonda su 3 presupposti:
+1. effettività della scelta organizzativa che comporti la riduzione della forza lavoro impiegata
+2. nesso causale tra scelta organizzativa e licenziamento
+3. impossibilità di adibire il lavoratore a mansioni diverse, c.d. impossibilità di "repechage"
+
+**Regime giuridico del licenziamento per GMO**
+Analogamente a quanto statuito per i licenziamenti disciplinari, il regime delle tutele nelle ipotesi di impugnativa del licenziamento per GMO si distingue in ragione del requisito dimensionale dell'azienda.
+L'accertamento dell'illegittimità del licenziamento per GMO comporta:
+1. per realtà aziendali soggette a tutela obbligatoria, la condanna del datore alla riassunzione nel termine di 3 giorni o, in mancanza, risarcimento del danno (indennità tra minimo di 2,5 e massimo 6 mensilità dell'ultima retribuzione globale di fatto)
+2. per aziende soggette a tutela reale, il regime è quello dell'art. 18 l. 300/70 come innovato dalla l. 92/2012: nel caso di manifesta insussistenza del fatto opera la tutela reintegratoria; opera quella esclusivamente indennitaria in tutti gli altri casi in cui si accerti l'insussistenza degli estremi del GMO
+
+**Licenziamento per inidoneità psico-fisica del lavoratore e superamento del periodo di comporto**
+La riforma del 2012 ha ricondotto all’area del licenziamento per motivi oggettivi anche le ipotesi del licenziamento per superamento del periodo di comporto e del licenziamento per inidoneità fisica o psichica del lavoratore.

@@ -1,0 +1,14 @@
+- Nel caso di dissenso del PM o di rigetto da parte del GUP - il processo prosegue con il rito ordinario. L'imputato può rinnovare la richiesta prima dell'apertura del dibattimento di primo grado (448 c. 1): la richiesta non deve essere identica a quella precedente e non è ulteriormente rinnovabile dinanzi ad altro giudice
+	- ==il giudice del dibattimento se ritiene fondata la richiesta pronuncia immediatamente sentenza==. Nello stesso modo il giudice provvede dopo la chiusura del dibattimento di primo grado o nel giudizio di impugnazione quando ritiene ingiustificato il dissenso del PM o il rigetto della richiesta (quando la sentenza è pronunciata nel giudizio di impugnazione, il giudice decide sull'azione civile a norma dell'art. 578 cpp) ossia ai soli effetti dei capi e punti che concernono gli interessi civili (448 c. 3)
+- ==Il Pubblico ministero di regola non può appellare la sentenza che applica la pena su richiesta delle parti==
+	- 448 c. 2: quando il PM non ha consentito al patteggiamento e il giudice ha applicato la pena su richiesta dell'imputato, la pubblica accusa può proporre appello contro la sentenza. Al di fuori di questa ipotesi, la sentenza che applica il patteggiamento è inappellabile dal PM in base al principio di tassatività delle impugnazioni.
+- L'==imputato può appellare il rigetto== della richiesta di patteggiamento: l'art. 448 cpp prevede altresì che **il giudice dell'impugnazione possa emettere sentenza di applicazione se ed in quanto ritenga ingiustificato il precedente rigetto** da parte del giudice di primo grado. Ciò significa che l'ordinanza di rigetto emessa dal giudice di dibattimento di primo grado può diventare oggetto di impugnazione da parte dell'imputato unitamente alla sentenza di condanna. Motivo di gravame sarà la non ragionevolezza del diniego.
+
+Il ricorso per cassazione avverso sentenza che applica patteggiamento è proponibile sia da parte dell'imputato che PM solo per i seguenti motivi:
+- espressione della volontà dell'imputato
+- difetto di correlazione tra richiesta e sentenza
+- erronea qualificazione giuridica del fatto
+- illegalità della pena o misura di sicurezza
+
+Ai sensi dell'art. 130 c. 1-bis, eventuali errori nella denominazione della pena o di calcolo nella quantificazioni sono rimediabili con la procedura di correzione attivabili su richiesta delle parti o d'ufficio dal giudice che ha emesso il provvedimento.
+La giurisprudenza ammette che siano oggetto di ricorso per cassazione per vizio di motivazione quelle ipotesi che eccedono il controllo operato dal giudice in sede di accoglimento del patteggiamento.

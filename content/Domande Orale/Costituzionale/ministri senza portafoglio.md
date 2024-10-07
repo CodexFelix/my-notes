@@ -1,0 +1,5 @@
+**Ministri senza portafoglio**
+
+Oltre ai ministri responsabili di un dicastero, all'atto della costituzione del Governo, possono essere nominati **ministri senza portafoglio** (L. 400/1988, art. 9, commi 1 e 2), ossia ministri per la cui attività non sono previsti autonomi stati di previsione in sede di bilancio, bensì specifici stanziamenti nell'ambito del bilancio della Presidenza del Consiglio. Essi, infatti, svolgono funzioni delegate dal Presidente del Consiglio dei ministri (sentito il Consiglio dei ministri, con provvedimento da pubblicarsi nella Gazzetta Ufficiale) ed operano presso la Presidenza del Consiglio.
+
+Il numero dei ministri senza portafoglio e le deleghe ad essi affidate variano da governo a governo; generalmente sono sempre nominati il ministro senza portafoglio per i rapporti con il Parlamento, quello per la pubblica amministrazione e quello per gli affari regionali.

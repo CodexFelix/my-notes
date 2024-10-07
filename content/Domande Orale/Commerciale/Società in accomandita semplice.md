@@ -1,0 +1,27 @@
+Caratteristica fondamentale della « società in accomandita » è la ==distinzione dei soci in due categorie==: alcuni soci — detti « accomandatari » — rispondono, come i soci della « collettiva », solidalmente ed illimitatamente per le obbligazioni sociali (v. Cass. 6 luglio 2016, n. 13805; Cass. 21 luglio 2015, n. 15252); gli altri soci — detti «accomandanti » — rispondono per tali obbligazioni limitatamente alla quota conferita (art. 2313 c.c.).
+
+>Così se, per es., si costituisce una società in accomandita tra A, B e C, in cui A è l’accomandatario e B e C sono gli accomandanti, un creditore della società deve prima escutere il patrimonio sociale e poi rivolgersi, se rimane in tutto o in parte insoddisfatto, ad A; se B e C hanno già effettuato, a favore della società, il conferimento dovuto, nulla può chiedere loro (v. Cass. 25 marzo 2015, n. 6017); se non l’hanno ancora effettuato, può soltanto chiedere — con l’azione surrogatoria, ove ne ricorrano i presupposti (art. 2900 c.c.; v. § 259) — che vi provvedano
+
+In forza del richiamo operato dall’art. 2315, la disciplina della s.a.s. viene modellata sulla base di quella predisposta per la società in nome collettivo, di conseguenza per la stessa società semplice, con le integrazioni e le modifiche dettate dagli artt. 2313 e ss. del c.c.
+
+Come si vede, ==questa figura sta — per così dire — a mezzo tra la « collettiva » ==(in cui tutti i soci sono illimitatamente responsabili) ==e le società di capitali== (in cui — come vedremo — tutti i soci sono limitatamente responsabili). 
+Si distingue dalla società semplice — in cui, sia pure per patto espresso (art. 2267 c.c.), possiamo trovare soci limitatamente e soci illimitatamente responsabili — per la natura dell’attività esercitata (che nella società semplice non può mai essere commerciale, laddove nell’accomandita questa attività è la più frequente). 
+Ancora: si distingue dall’associazione in partecipazione, perché in quest’ultima manca un patrimonio comune, in quanto l’apporto dell’associato diventa di proprietà dell’associante (v. § 506).
+
+- La « società in accomandita semplice » (« s.a.s. ») ==agisce sotto una « ragione sociale » costituita dal nome di uno dei soci accomandatari== — perché i terzi debbono sapere sulla responsabilità personale di chi possono contare, oltre che del patrimonio sociale — con l’indicazione di società in accomandita semplice (ad es., « Rossi & C. di Giovanni Rossi s.a.s. ») (art. 2314 c.c.; v. Cass. 29 novembre 2018, n. 30882).
+- ==L’amministrazione e la rappresentanza della società possono essere conferite solo a soci accomandatari== (art. 2318 c.c.), sebbene non necessariamente tutti i soci accomandatari debbano essere anche amministratori (v. Cass. 26 settembre 2016, n. 18844): sicché possono esservi soci accomandatari non amministratori, ma non soci amministratori che non siano anche soci accomandatari (v. Cass. 19 giugno 2013, n. 15395).
+- Gli accomandatari hanno, di massima, gli stessi diritti ed obblighi che gravano sui soci di una società in nome collettivo (v. Cass. 6 luglio 2016, n. 13805; Cass. 24 maggio 2016, n. 10715).
+- ==Agli accomandanti è fatto divieto di compiere atti di amministrazione==, così come di trattare e concludere affari in nome della società (art. 2320 c.c.; v. Cass. 23 febbraio 2018, n. 4498). L’accomandante che contravviene a siffatto divieto di immistione negli affari sociali (art. 2320 c.c.), ovvero che consente che il suo nome sia compreso nella ragione sociale (art. 2314 c.c.), ==perde il beneficio della responsabilità limitata== (v. Cass. 27 giugno 2018, n. 16984; Cass. 28 febbraio 2017, n. 5069).
+- Salva diversa disposizione statutaria, le quote di partecipazione del socio accomandante possono essere cedute, con effetto verso la società, purché vi sia il consenso di tanti soci che rappresentino la maggioranza del capitale (art. 2322, comma 2, c.c.; v. Cass. 12 luglio 2013, n. 17255). ==Il trasferimento delle quote di partecipazione del socio accomandatario è, viceversa, ammissibile soltanto con il consenso unanime di tutti gli altri soci== (art. 2252 c.c.).
+- Qualora vengano a mancare, per qualsiasi causa, tutti i soci accomandanti (cosicché rimangano solo soci accomandatari o anche un solo accomandatario), ovvero qualora vengano meno tutti i soci accomandatari (cosicché rimangano solo soci accomandanti: v. Cass. 7 luglio 2011, n. 15067), se nel termine di sei mesi non interviene un nuovo socio della categoria venuta meno, la società si scioglie (art. 2323 c.c.).
+- Per il resto — forma del contratto sociale, iscrizione al registro delle imprese, autonomia patrimoniale, ecc. — ==alla società in accomandita semplice si applica la disciplina stabilita per la società in nome collettivo== (art. 2315 c.c.).
+
+### I soci accomandanti posso ricevere procura per determinati affari?
+Sì, l'art. 2320 prevede questa come unica eccezione al divieto di trattare o concludere affari in nome della società
+
+
+### Accomandita irregolare
+L’ omessa registrazione non impedisce la nascita della societa‘.
+Alla società in accomandita semplice irregolare si applica, dunque, la stessa disciplina esaminata per la società in nome collettivo irregolare.
+
+Tuttavia, la disciplina della s.a.s. irregolare diverge, però, da quella relativa alla s.n.c. non registrata per una fondamentale differenza: la responsabilità del socio  accomandante, difatti, resta comunque limitata alla quota sottoscritta, nonostante l’irregolarità, salvo il caso di immistione nella gestione societaria, così come previsto dall’art. 2317, co. 2 c.c..

@@ -1,0 +1,27 @@
+Condizioni oggettive e soggettive che la legge richiede perché possa darsi corso a questa procedura. 
+L'art. 121 delimita l'ambito di applicazione, dedicata all'==imprenditore commerciale==, sia esso persona fisica o giuridica o ente collettivo, ==che non dimostri i requisiti propri dell'impresa minore==, che prevede le soglie il cui superamento comporta l'assoggettabilità a liquidazione giudiziale.
+
+ Soglie dell'impresa minore (art. 2 lett. D), il cui superamento fa entrare nell'area di fallibilità (sottoponibilità a liquidazione giudiziale):
+1. Attivo patrimoniale < 300.000€ nei tre esercizi precedenti la data di deposito dell'istanza di apertura della liquidazione giudiziale o dall'inizio dell'attività se di durata inferiore
+2. Ricavi (non più lordi secondo l'ambigua disciplina previgente) < 200.00 """"
+3. Ammontare di debiti anche non scaduti < 500.000
+
+**Requisiti soggettivi**: sono ==esclusi lo Stato e gli enti qualificati come pubblici dalla legge== e le ==imprese agricole o di dimensioni più ridotte== per cui sono previsti altri strumenti di gestione della crisi e dell'insolvenza, sia imprese di dimensioni così rilevanti da involgere maggiormente interessi di rilievo pubblicistico e giustificare l'accesso a procedure differenziate
+Sono escluse altresì le start up innovative, sottoposte alla liquidazione controllata da sovraindebitamento.
+>L'iscrizione di una start up innovativa nella sezione speciale del Registro delle imprese, in base all'autocertificazione del legale rappresentante circa il possesso dei requisiti formali e sostanziali, non preclude la verifica giudiziale dei requisiti medesimi in sede prefallimentare, in quanto la iscrizione al Registro costituisce presupposto necessario ma non sufficiente per la non assoggettabilità a fallimento, essendo necessario anche l'effettivo e concreto possesso dei requisiti di legge per l'attribuzione della qualifica di startup
+
+
+**Requisito oggettivo**: ==stato di insolvenza==, definito come quello stato del debitore che si manifesta con l'inadempimento o altri fatti esteriori, i quali ==dimostrino che il debitore non è in grado di soddisfare regolarmente le proprie obbligazioni.==
+Peculiare l'accertamento dell'insolvenza nel caso di società già sottoposta in stato di liquidazione: la valutazione del giudice ai fini dell'accertamento dell'insolvenza deve essere diretta unicamente a verificare sia se gli elementi attivi del patrimonio sociale consentano di assicurare l'eguale ed integrale soddisfacimento dei creditori sociali (non proponendosi di restare sul mercato ma avendo come esclusivo obiettivo quello di provvedere alla realizzazione e distribuzione dell'eventuale residuo tra i soci), e non è più richiesto che essa disponga, come la società in piena attività, di credito e di risorse necessari per soddisfare le obbligazioni contratte.
+- Il concetto di insolvenza va tenuto ==distinto da quello di inadempimento==: quest'ultimo è uno degli indici sintomatici dell'insolvenza, ma non necessariamente all'inadempimento coincide l'insolvenza. Si pensi al caso del debitore che non onora un credito volontariamente, perché ad es. contesta dei vizi nei beni acquistati.
+- Il concetto di insolvenza va pure tenuto distinto da quello della patrimonializzazione dell'impresa: es. ipotesi di un imprenditore che, pur avendo molteplici beni immobili non riesce a pagare i propri debiti perché non ha la disponibilità sufficiente di flussi di cassa.
+
+**Termini entro cui può essere dichiarata aperta la liquidazione giudiziale**
+Il ==Codice ha previsto un termine unico== per le imprese individuali e le società entro il quale può essere aperta la procedura, anche con riferimento alle imprese non iscritte al registro imprese e, dunque irregolari (viene così innovata la disciplina della L. Fall. che aveva posto dubbi circa il termine entro cui una società irregolare potesse essere assoggettata a fallimento in mancanza di adeguata pubblicità)).
+Secondo l'art 33 CCII, ==dopo la cessazione dell'attività imprenditoriale, l'imprenditore è assoggettabile a liquidazione giudiziale per il periodo di un anno==. In presenza dei requisiti soggettivi appena analizzati, infatti, la dichiarazione di liquidazione giudiziale può intervenire anche con riferimento all'imprenditore cessato o defunto.
+L'apertura della procedura di liquidazione giudiziale può intervenire comunque ==entro un anno dalla cancellazione dal registro delle imprese, se l'insolvenza si è manifestata anteriormente alla medesima o entro l'anno successivo==.
+Il riferimento a un anno dalla cancellazione non ha valore assoluto: nel caso di impresa individuale o cancellazione di ufficio degli imprenditori collettivi, è fatta salva la facoltà per il creditore o per il PM di dimostrare il momento dell'effettiva cessazione dell'attività da cui decorre il termine di 1 anno.
+Per il debitore non iscritto, la cessazione coincide con il momento in cui i terzi ne acquisiscono la conoscenza.
+
+==L' imprenditore defunto è assoggettabile a liquidazione purché l'insolvenza si sia manifestata anteriormente alla morte o comunque nell'anno successivo== (34 CCII)
+Qualora a chiedere l'apertura della procedura sia l'erede, questi, pur non essendo soggetto agli obblighi di deposito della documentazione, è tenuto a presentare una relazione sulla situazione economico-patrimoniale dell'impresa.

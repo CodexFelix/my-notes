@@ -1,0 +1,13 @@
+Lo schiavo, pur non essendo un soggetto di diritto, può compiere negozi giuridici, i cui effetti si producono direttamente (come nel diritto moderno con la rappresentanza diretta) in capo al padrone, ipso iure, ma, secondo il ius civile, solo se sono effetti favorevoli al padrone stesso.
+Il compimento di attività giuridica mediante lo schiavo è molto frequente in Roma.
+
+La regola per cui gli effetti dei negozi giuridici compiuti dallo schiavo si producono soltanto a favore del padrone è un principio che vale in generale per gli atti compiuti dalle persone libere alieni iuris: alieni iuris non potest deteriorem conditionem facere patris.
+
+==Ma la normativa civilistica viene modificata dal diritto pretorio.
+Il pretore, infatti, concede al terzo che ha negoziato con lo schiavo alcune azioni nei confronti del padrone==:
+- **actio quod iussu**: azione pretoria che può essere esercitata dal terzo sul presupposto che lo schiavo abbia con lui concluso un negozio nell'interesse del padrone in base al comando (iussum) del dominus stesso. Con quest'azione, il padrone è costretto dal pretore a rispondere delle conseguenze dannose del negozio, superando la regola di ius civile ricordata sopra che escluderebbe tale responsabilità
+- **Actio institoria**: caso in cui il dominus abbia preposto lo schiavo all'esercizio di un'attività commerciale che arreca lucro al padrone stesso. I terzi che negoziano con lo schiavo possono far valere contro il dominus i loro diritti nascenti da questi negozi. Per il ius civile la preposizione ad un'attività commerciale di una persona comporta la responsabilità solo di quest'ultima, ma se ricorrono i due presupposti della preposizione e il compimento nell'esercizio di quest'attività, il pretore concede l'azione al terzo nei confronti del preponente, il quale risponde in solido con il preposto, onde l'azione potrà essere eserciotata a seconda della convenienza dell'attore verso l'uno o verso l'altro. Se il preposto è uno schiavo il pretore concederà l'azione verso il dominus.
+- **Exercitoria**: anch'essa actio pretoria, può essere esercitata nei confronti dell'exercitor (armatore) che abbia preposto lo schiavo (come magister o capitano) di una nave, in relazione a negozi che riguardano l'esercizio dell'attività.
+
+> Le azioni giudiziarie esaminate mostrano che lo schiavo, pur essendo privo di capacità giuridica, aveva la capacità di compiere atti giuridici per conto del padrone. Il fenomeno dell'impiego degli schiavi in attività imprenditoriali era molto diffuso in Roma.
+> Le azioni vennero denominate nella dottrina medioevale come ==adiecticiae qualitatis== e poggiano sul medesimo fondamento dell'istituto della rappresentanza volontaria.

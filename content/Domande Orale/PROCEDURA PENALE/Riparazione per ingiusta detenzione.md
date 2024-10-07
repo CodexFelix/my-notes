@@ -1,0 +1,9 @@
+![[IMG_4776.jpeg]]
+All'imputato è riconosciuto un vero e proprio diritto ad ottenere un'equa riparazione per la custodia cautelare subita ingiustamente (314). Novità introdotta dal codice del 1988, in adempimento di un preciso obbligo della CEDU (art. 5 c. 5)
+
+> 1) Chi è stato ==prosciolto con sentenza irrevocabile perché il fatto non sussiste, per non aver commesso il fatto, perché il fatto non costituisce reato, non è previsto dalla legge come reato==, ha diritto ad un'equa riparazione per la custodia cautelare subita, qualora non vi abbia dato o concorso a darvi causa per dolo o colpa grave. L'esercizio da parte dell'imputato della facoltà di cui all'art. 64 c. 3 lett. B (di non rispondere) non incide sul diritto alla riparazione
+> 2) Lo stesso diritto spetta al prosciolto per qualsiasi causa o al condannato che nel corso del processo sia stato sottoposto a custodia cautelare, quando con decisione irrevocabile risulti accertamento che il provvedimento che ha disposto la misura è stato emesso senza che esistevano le condizioni di applicabilità previste dagli artt. 273 e 280 
+> 3) La disposizioni dei commi 1 e 2 si applicano alle medesime condizioni a favore delle persone nei cui confronti sia pronunciato decreto di archiviazione o sentenza di non luogo a procedere (425)
+> 4) Il diritto alla riparazione è ==escluso per quella parte di custodia cautelare che sia computata ai fini della determinazione della misura di una pena (657) ovvero per il periodo in cui l limitazioni conseguenti all'applicazione della custodia siano state sofferte anche in forza di altro titolo==
+> 5) Quando con la sentenza o con il provvedimento di archiviazione è stato affermato che il fatto non è previsto dalla legge come reato per abrogazione della norma incriminatrice, il diritto alla riparazione è altresì escluso per quella parte di custodia cautelare sofferta prima dell'abrogazione
+

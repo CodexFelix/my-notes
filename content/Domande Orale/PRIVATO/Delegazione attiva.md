@@ -1,0 +1,9 @@
+Il codice si occupa solo della « delegazione passiva » (art. 1268 c.c.; v. § 210). Si ritiene tuttavia che possa rientrare nell’autonomia negoziale delle parti dar luogo anche ad una « delegazione attiva ».
+
+La « delegazione attiva » (c.d. di credito) consiste in un accordo — che si ritiene trilaterale tra creditore, debitore ed un terzo—in forza del quale il creditore (delegante) delega il debitore (delegato) ad impegnarsi ad effettuare la prestazione al terzo (delegatario): ad es., Tizio, creditore di Caio per 100, volendo gratificare il figlio Sempronio, si accorda con Caio e Sempronio perché il primo si obblighi a pagare detto importo direttamente al secondo
+
+Per effetto della delegazione attiva, ==il delegato diviene, di regola, debitore nei confronti sia del delegante che del delegatario== (cosicché, in caso di successiva inadempienza, contro il delegato potranno agire sia il delegante che il delegatario): c.d. « delegazione **cumulativa** »; salvo che le parti abbiano concordato la liberazione del delegato nei confronti del delegante: c.d. « delegazione liberatoria ».
+
+
+### Differenze con la cessione del credito
+A differenza di quanto avviene nella cessione del credito — in cui l’accordo interviene fra creditore originario (cedente) e cessionario, mentre il debitore ceduto, cui la cessione va soltanto notificata, ne resta estraneo — ==nella delegazione attiva l’accordo vede come parte anche il debitore==. Inoltre — mentre l’effetto della cessione del credito è quello della sostituzione del creditore originario con un nuovo creditore — ==l’effetto della delegazione attiva è, di regola, cumulativo==: al creditore originario (il delegante) non si sostituisce, ma ==si aggiunge un nuovo creditore (il delegatario).==

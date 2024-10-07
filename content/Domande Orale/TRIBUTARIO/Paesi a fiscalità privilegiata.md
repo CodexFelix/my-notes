@@ -1,0 +1,25 @@
+V. su CFC: pagg. 325 ss. (IRES)
+
+
+
+Con l’espressione “**Black list**” si fa riferimento ad un elenco di Paesi avente un regime fiscale privilegiato consistente in un basso o anche nullo livello di tassazione.
+
+**In Italia**, si fa riferimento a diverse tipologie di Black list:
+
+1. Il **D.M. 4 maggio 1999** ha introdotto la Black list relativa alla presunzione di residenza persone fisiche. Ai sensi dell’articolo 2 comma 2-bis Tuir “si considerano altresì residenti, salvo prova contraria, i cittadini italiani cancellati dalle anagrafi della popolazione residente e trasferiti in Stati o territori diversi da quelli individuati con decreto del Ministro dell'economia e delle finanze, da pubblicare nella Gazzetta Ufficiale”. In buona sostanza la prova dell’effettivo trasferimento di residenza e domicilio è a carico del contribuente dell’effettivo trasferimento di residenza e domicilio. La Black list dettata dal D.M. 4 maggio 1999 è stata modificata dal D.M. del 12 febbraio 2014;
+2. Il **D.M. 21 novembre 2001** ha introdotto la Black list relativa alle CFC - Controlled Foreign Companies. Il D.M. 21 novembre 2001 è stato modificato nel 2015 dal D.M. 30 marzo 2015, dal D.M. del 18 novembre 2015 e, nel 2016, dalla Legge di stabilità 2016. Quest’ultima ha modificato anche i commi 6 ed 8 dell’articolo 167 Tuir e riscritto il comma 4 dello stesso articolo. Ai sensi del nuovo articolo 167 comma 4 “i regimi fiscali, anche speciali, di Stati o territori si considerano privilegiati laddove il livello nominale di tassazione risulti inferiore al 50 per cento di quello applicabile in Italia”. In buona sostanza, dal 2016 sono considerati Paesi Black list, ai fini della disciplina CFC, tutti quei territori avente una tassazione inferiore al 50% di quella italiana. Occorre inoltre considerare eventuali regimi speciali esistenti nel Paese estero. Chiarimenti in materia sono contenuti nella Circolare dell’Agenzia delle Entrate n. 35/E del 4 agosto 2016 sulla disciplina CFC. In sintesi, ad oggi, per verificare se un Paese è a fiscalità privilegiata o meno non si fa più riferimento alle White list o alle Black list ma è lo stesso contribuente a constatarlo;
+3. Il **D.M. 23 gennaio 2002** fa riferimento alla Black list relativa all’indeducibilità dei costi sostenuti da imprese. Ai sensi del vecchio testo dell’**[articolo 110 comma 10 Tuir](https://www.altalex.com/documents/leggi/2014/12/10/tuir-titolo-ii-capo-ii-base-imponibile-societa-enti-commerciali-residenti#art110)** “non sono ammessi in deduzione le spese e gli altri componenti negativi derivanti da operazioni intercorse tra imprese residenti ed imprese domiciliate fiscalmente in Stati o territori non appartenenti all'Unione europea aventi regimi fiscali privilegiati (...)”. Il D.M. 23 gennaio 2002 è stato modificato nel 2015 dal D.M. 27 aprile 2015 e dalla Legge di stabilità 2015 e, nel 2016, dalla Legge di stabilità 2016 che abrogando il già citato comma 10 dell’articolo 110 Tuir ha modificato del tutto la normativa in tema di deducibilità dei costi black con l’obiettivo di liberalizzare gli scambi economici a livello internazionale. ==Nello specifico, la Legge di stabilità 2016 ha definitivamente abrogato la normativa che in precedenza rendeva indeducibili i costi e le spese sostenute derivanti dai rapporti economici intercorsi con soggetti esteri residenti e/o localizzati in Paesi a fiscalità privilegiata.==
+
+Diversa è invece la c.d. “**White list**” che si differenzia dalla Black List in quanto comprende Paesi che pur avendo un regime fiscale privilegiato consentono lo scambio di informazioni con gli altri Paesi tramite convenzioni o accordi internazionali.
+
+Il **D.M. 4 settembre 1996** contiene l’elenco degli Stati virtuosi che rileva ai fini dell’individuazione dei soggetti residenti in Paesi che godono dell’esenzione dall’imposta sostitutiva sugli interessi delle obbligazioni e dei titoli dei cd. “grandi emittenti” di cui al D.Lgs. 239/1996. In buona sostanza, con il D.M. 4 settembre 1996 viene approvato l'elenco degli Stati, cosiddetta White list, con cui risulta attuabile lo scambio di informazioni. Il D.M. 4 settembre 1996 è stato modificato dal D.M. 9 agosto 2016.
+
+In Europa, nel dicembre 2017 il Consiglio dell’Unione europea ha stilato una propria Black list degli Stati e territori non collaborativi (17 Paesi: Tunisia, Corea del Sud, Emirati arabi, Samoa americane, Bahrain, Barbados, Grenada, Guam, Macao, Isole Marshall, Mongolia, Namibia, Palau, Panama, Santa Lucia, Samoa e Trinidad e Tobago) sulla base di tre parametri:
+
+1. adozione o meno di strumenti di scambio di informazioni ai fini fiscali;
+2. presenza o meno di regimi fiscali privilegiati o distorsivi della concorrenza;
+3. implementazione o meno delle misure previste dal progetto BEPS.
+
+Di recente (gennaio 2018), otto Paesi (Panama, Corea del Sud, Emirati Arabi Uniti, Barbados, Grenada, Macao, Mongolia e Tunisia) dei diciassette hanno firmato l’accordo in scambio automatico in sede OCSE ed a breve, avendo modificato le proprie norme fiscali di apertura internazionale, dovrebbero essere rimossi dalla lista nera dell’UE.
+
+

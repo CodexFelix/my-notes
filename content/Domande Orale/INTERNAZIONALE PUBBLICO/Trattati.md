@@ -1,0 +1,44 @@
+(nozione, procedimento, tipologie)
+
+### Nozione
+L’accordo (convenzione, trattato, patto) è **fonte di norme internazionali particolari**. Come gli atti di natura contrattuale, il trattato è l’incontro di due o più volontà, dirette a regolare una determinata sfera di rapporti attraverso diritti e obblighi reciproci.
+
+Il complesso di norme consuetudinarie che regola il procedimento di formazione, i requisiti di validità e di efficacia degli accordi forma il **diritto dei trattati**. A questo tema è dedicata la **Convenzione di Vienna del 1969** sul diritto dei trattati, entrata in vigore nel 1980. Per completare la materia vanno ricordate la **Convenzione di Vienna 1978** sulla successione degli Stati nei trattati, entrata in vigore nel 1996, e la **Convenzione di Vienna 1986** sui trattati stipulati tra Stati e organizzazioni internazionali e tra organizzazioni internazionali, mai entrata in vigore e praticamente uguale alla prima.
+
+### Forme e procedimento
+Per favorire l’incontro di volontà degli Stati, il diritto internazionale lascia la più ampia libertà in materia di **forma e procedura nella conclusione degli accordi**, purché se ne deduca la reciproca intenzione ad obbligarsi. Il modo consueto è quello degli accordi per iscritto, regolato da Vienna 69 (artt. 7-16). In linea di massima le fasi di conclusione di un’intesa, formatesi ai tempi delle monarchie assolute, sono le stesse ancor oggi, pur con ulteriori procedure nate successivamente:
+
+**negoziazione**        ->           predisposizione dell’accordo da parte di plenipotenziari (oggi membri dell’esecutivo), emissari del sovrano (oggi capo dello Stato), previa contrattazione con la controparte;
+
+**firma**                     ->           chiusura del testo definitivo da parte dei plenipotenziari;       
+
+**ratifica**                  ->            atto con cui il sovrano controlla l’adesione al mandato assegnato ai plenipotenziari;
+
+**scambio ratifiche** ->          per portare a conoscenza delle parti la volontà ad obbligarsi.
+> Il procedimento di formazione dell’accordo si conclude con lo **scambio delle ratifiche**. In questo caso il trattato si perfeziona istantaneamente. Nei trattati multilaterali, invece, la procedura normalmente adottata è quella del **deposito delle ratifiche**. L’accordo si forma per gli Stati depositanti via via che le ratifiche vengono consegnate presso un Governo o presso il Segretariato di un’organizzazione internazionale. Si prevede però che l’intesa non entri in vigore, neanche per gli Stati ratificanti, finché non sia stato depositato un certo numero di ratifiche. Allo scambio o deposito l’art. 16 di Vienna 69 fa seguire la **notifica** agli Stati contraenti o al depositario.
+>                 Secondo la Carta dell’Onu (art. 102) e Vienna 69 (art. 80) ogni trattato va sottoposto a **registrazione** presso il Segretariato dell’Onu e a **pubblicazione** a cura di quest’organo nella United Nations Treaty Series. Tuttavia questi due oneri non costituiscono requisito di validità o di esistenza dei trattati, ma comportano unicamente la possibilità di invocare il trattato dinanzi ai vari organi delle Nazioni Unite..
+
+
+Nell’**ordinamento** **italiano** (art. 87 Cost.) i trattati internazionali sono ratificati dal capo dello Stato, spesso previa autorizzazione delle Camere. L’autorizzazione è necessaria (art. 80 Cost.), e va espressa con legge, nei trattati di natura politica, che prevedono regolamenti giudiziari, che comportano variazioni del territorio nazionale, oneri alle finanze o modificazioni di leggi. In base poi all’art. 89 Cost., ogni atto del presidente della Repubblica deve essere controfirmato dai ministri proponenti che ne assumono la responsabilità. Il capo dello Stato non può rifiutarsi di sottoscrivere, ma può solo sollecitare il riesame del trattato, prima della sottoscrizione. In Italia, quindi, il potere di ratifica è soprattutto nelle mani dei poteri esecutivo e legislativo.
+
+
+Alla ratifica (detta anche approvazione o conclusione) va equiparata l’**adesione** o **accessione**, che non è altro che una ratifica successiva di un testo predisposto da altri. Essa è la volontà di concludere l’accordo e viene espressa nei trattati multilaterali dallo Stato che non ha partecipato alla fase di negoziazione. Questo è possibile nei trattati aperti, che prevedono l’ingresso successivo di altri contraenti, con la clausola di adesione. Per l’**adesione** **all’Unione Europea** da parte di uno Stato terzo, invece, occorre un nuovo accordo, autonomo dal primo, che deve essere ratificato dal nuovo Stato membro e dai contraenti del trattato istitutivo dell’Unione.
+
+
+### Procedimenti alternativi
+Esistono **procedimenti alternativi** della formazione dei trattati, caratterizzati dalla diversa manifestazione di volontà degli Stati.
+
+Nei **trattati predisposti dalle organizzazioni internazionali**, la negoziazione è sostituita dalla discussione e l’==approvazione da parte, di solito, dell’organo assembleare.==
+
+Nei **trattati multilaterali**, i plenipotenziari redigono un testo definitivo che rimane aperto alla firma e alla ratifica degli Stati, che sono manifestate nei tempi più opportuni. Questi due atti perdono così le funzioni caratteristiche del procedimento ordinario. ==La firma, in particolare, contestuale alla ratifica, perde il significato di autenticazione del testo, per assumere quello di generica dichiarazione di disponibilità.==
+
+Fenomeno sempre più ricorrente, che trova giustificazione nelle esigenze di speditezza e praticità dei tempi attuali, è quello degli **==accordi** **in forma semplificata** o accordi informali==. Essi vengono conclusi con la ==sola sottoscrizione del testo da parte dei plenipotenziari==, quando dai negoziati, dai comportamenti dei rappresentanti o dal testo stesso si evince la volontà comune di attribuire alla firma valore di piena e definitiva volontà di adesione (in tal senso art. 12 Vienna 69). Si parla di **accordo misto**, quando per alcuni Stati può essere concluso nella forma semplificata, mentre per altri con la forma solenne.
+Sono da assimilare agli accordi in forma semplificata anche le **note diplomatiche** e altri strumenti simili, sempre che da essi si ricavi la volontà a vincolarsi reciprocamente. Così dicasi anche per tutti i patti stipulati senza ricorrere alla ratifica.
+Bisogna sottolineare che, per aversi un accordo in forma semplificata, non basta la mancanza della ratifica, ma occorre che dal testo dell’intesa o dalle circostanze risulti una chiara e sicura **volontà di obbligarsi** attraverso la firma. Spesso, infatti, gli Stati danno vita a rapporti definiti accordi, ma che non hanno alcun aspetto giuridico, espressamente escluso dalle dichiarazioni dei sottoscrittori, da quanto esposto nel testo. Si tratta di intese che valgono finché valgono. 
+
+
+Al confine tra intese non giuridiche e accordi in forma semplificata si collocano gli **accordi sull’applicazione provvisoria dei trattati**, che si hanno quando nel testo del trattato, ==in attesa di ratifica== o con dichiarazione separata, le parti prevedono che esso ==entri immediatamente e provvisoriamente in vigore==, salvo la legittimazione definitiva della ratifica. Nella dottrina non c’è univocità di interpretazione sulla natura giuridica o meno di questi trattati. Per l’affermazione, pur essendo intese che possono essere revocate unilateralmente in qualsiasi momento, stanno coloro (**Picone**) che riconoscono a queste intese la capacità di sospendere l’efficacia di convenzioni precedenti sullo stesso oggetto; inoltre, in caso di revoca, lo Stato si troverebbe nell’impossibilità di annullare retroattivamente le conseguenze verificatesi nel periodo di validità del trattato.
+
+ Per quanto riguarda i **trattati segreti**, di solito vietati dal diritto interno, non sembra possa negarsi la loro validità quando gli Stati consentono a propri organi di condurre accordi riservati, a meno che la natura non vincolante dell’intesa risulti da altra fonte.
+
+  Per quanto riguarda i soggetti che possiedono **competenza a stipulare** accordi in forma semplificata, le norme variano da ordinamento a ordinamento. In genere le norme costituzionali elencano i limiti nel concludere questo tipo di intese. Per l’Italia si può ritenere che la forma semplificata può essere ==scelta in tutte le materie, ad eccezione di quelle elencate nell’art. 80 Cost==. (trattati di natura politica, che prevedono arbitrati o regolamenti giudiziari, che comportano variazioni del territorio nazionale, oneri alle finanze o modificazioni di leggi). Il tutto con opportuni temperamenti, soprattutto per gli oneri alle finanze: si devono ritenere non stipulabili in forma semplificata solo quegli accordi che prevedono oneri non preventivati, e non qualsiasi tipo di spesa (es.: spese della visita di un capo di Stato estero).

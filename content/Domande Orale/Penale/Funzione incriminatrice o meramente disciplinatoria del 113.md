@@ -1,0 +1,7 @@
+**La tesi della natura disciplinare** dell’ articolo 113 si basa sull’eccezionalità dell’incriminazione colposa, sulla peculiarità frammentaria dei reati colposi di parte speciale a condotta vincolata e a soggettività ristretta, e sul principio di colpevolezza che impedisce di addebitare all’agente le conseguenze dell’altrui violazione cautelare;
+
+
+**la tesi opposta reputa, invece, incriminatrice** anche in campo colposo la norma di cui all’articolo 113, che: 
+- ==trasforma in reati causalmente orientati== e soggettivamente aperti i reati colposi di mera condotta, a condotta vincolata, omissivi e a soggettività ristretta; 
+	- 
+- una parte della dottrina attribuisce, poi, portata incriminatrice (almeno indiretta) all’articolo 113 ==anche per i reati a forma libera, nella parte in cui tale disposizione fissa regole cautelari di secondo grado nei contesti di cooperazione (cd. “colpa di collaborazione”==), così imponendo ==comportamenti volti a evitare l’evento frutto dell’altrui condotta colposa== negli intrecci cooperativi ed estendendo l’incriminazione a condotte non violative di regole cautelari relative al singolo agente isolato dal contesto di cooperazione; secondo altra tesi, invece, l’articolo 113 non incrimina condotte atipiche, ma subisce la dilatazione delle regole cautelari che affiorano in contesti di azioni collettive, strutturate e organizzate, producendo una colpa peculiare quando la condotta del singolo sia legata alla condotta altrui e parametrando la tipicità alle dilatate regole cautelari di matrice collaborativa;
