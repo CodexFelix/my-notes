@@ -1,7 +1,7 @@
----
+
 Fonti
 artt. 1447 ss. cc
----
+
 ### Origine storica
 1. Nel diritto postclassico, sotto l'influenza della morale cristiana, come rimedio all'iniquità contrattuale. Negozi validi nella forma e nella sostanza, ma viziati per altre ragioni
 	- si perseguivano due finalità: conservazione dei patrimoni e conservazione del negozio. Lo scopo era quello di mantenere equilibrio contrattuale, ripristinando la situazione antecedente
