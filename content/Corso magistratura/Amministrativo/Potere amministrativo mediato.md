@@ -1,0 +1,9 @@
+Nelle sentenze C. Cost. 204/2004 e 191/2006 si è affermato che la PA ha facoltà di agire sia nell'esercizio di un potere amministrativo immediato e intrinsecamente pubblicistico, ==sia esplicando un potere amministrativo mediato o indiretto==.
+
+Ciò avviene mediante comportamenti amministrativi che hanno in sè natura privatistica, ma ineriscono funzionalmente a un rapporto complessivamente inteso di diritto pubblico. Ciò consente di riconoscere in essi una forma di esercizio mediato del potere, che seppure esplicitandosi attraverso schemi privatistici, resta finalizzato al perseguimento del pubblico interesse e si inserisce in una dinamica di esercizio pubblicistico del potere.
+
+La Consulta ha, in particolare ritenuto che, sebbene detti comportamenti siano attribuiti in via generale alla cognizione del GO (in quanto ontologicamente estranei all'esercizio del potere), tuttavia ==essi possono essere legittimamente attratti dal legislatore in materia di giurisdizione esclusiva del GA==, così consentendo al giudice della PA di conoscere anche di questioni privatistiche strettamente connesse, sul piano teleologico e funzionale, all'esercizio del potere pubblico.
+
+
+---
+Le SU 8236/2020 (sul contatto sociale nei rapporti PA-cittadino) ha distinto dai comportamenti amministrativi costituenti esercizio mediato del potere ==i comportamenti puramente privatistici solo occasionati dall'esercizio del potere==. Dette condotte, violative della buona fede civilistica e lesive dell'affidamento del privato, si iscrivono in un contatto sociale privato, autonomo rispetto al rapporto amministrativo e ==danno luogo a una responsabilità contrattuale di pertinenza del giudice ordinario== estraneo anche alla giurisdizione esclusiva del GA.

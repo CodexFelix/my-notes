@@ -1,0 +1,59 @@
+In disparte le disposizioni specifiche dettate per singoli contratti e la legislazione speciale, il codice civile detta una disciplina scarna in ordine ai comportamenti capaci di ingenerare responsabilità precontrattuale: 
+- l'art. 1337 cc che fissa la regola generale è specificato dall'art. 1338 cc, relativo alla omessa comunicazione di cause di invalidità del contratto, un tempo ritenuta unica ipotesi applicativa della responsabilità contrattuale
+- Progressivi ampliamenti nel tempo mediante l'attività di dottrina e giurisprudenza:
+	- recesso ingiustificato dalle trattative: le trattative, pur se non vincolano a contrarre, ingenerano un ragionevole affidamento nella conclusione del contratto. Il contraente che interrompe le trattative senza giustificato motivo tiene un comportamento contrario a buona fede
+	- trattative che conducono ad un contratto (pure valido ed efficace) ma ==iniquo e asimmetrico==: che hanno pregiudicato l'equilibrio contenutistico
+
+### Sette fattispecie di responsabilità precontrattuale sintomatiche dell'evoluzione che ha interessato l'ambito di operatività della responsabilità precontrattuale: 
+1. ==Recesso ingiustificato dalle trattative===: contemperamento tra libertà delle parti di usare le trattative per valutare la convenienza dell'affare mantenendo la piena facoltà di recedere in qualsiasi momento senza dover addurre alcuna giustificazione e la tutela del legittimo affidamento -> La buona fede e il divieto di abuso del diritto impongono che l'esercizio del diritto di recesso deve essere sostenuto da una giusta causa.
+	- il recesso è ingiustificato in assenza di ragioni funzionali collegate al verificarsi di sopravvenienze perturbatrici (ad es. la scoperta di diritti già acquistati da terzi sul medesimo bene oggetto del rapporto, ovvero comportamento contrario a buona fede della controparte)
+	- il legittimo affidamento della controparte sussiste quando le trattative sono giunte ad uno stadio di avanzamento tale da indurre qualsiasi persona di media diligenza a ritenere che il contratto sarà concluso
+	- la valutazione della responsabilità è differenziata a seconda che il recesso sia colposo (trattative iniziate con leggerezza senza valutare le proprie possibilità) - sanzionato solo in caso di trattative avanzate - e recesso doloso (trattative avviate sin da principio con l'intenzione di non stipulare) - sempre sanzionate
+	- L'onere della prova incombe sul danneggiato, che dovrà limitarsi a dimostrare che l'interruzione delle trattative ha leso il suo affidamento ragionevole; spetterà invece alla controparte provare la giusta causa alla base del recesso
+2. ==Omessa informazione su cause di invalidità del contratto== (1338). 3 i presupposti:
+	- presenza di un'invalidità del contratto stipulato: da intendersi in senso ampio, non solo le invalidità - ma anche vizi radicali tali da determinare inesistenza del contratto oppure cause di inefficacia dello stesso (mancanza di autorizzazione amministrativa o di legittimazione negoziale come nel caso del falsus procurator ex 1398 cc)
+	- conoscenza o conoscibilità della causa di invalidità del contratto da parte del danneggiante (sanzionati quindi sia il dolo che la colpa del contraente) - non rientrano le ipotesi di annullabilità per incapacità legale (1425 cc): in questo caso la parte non è tenuta ad informare l'altra della propria incapacità. Semmai è il contraente capace a doversi accertare dello stato di capacità legale dell'altra parte.
+	- mancanza di colpa della controparte danneggiata: non è risarcibile l'affidamento colpevole; la esclusione radicale della tutela aquiliana in caso di colpa del danneggiato costituisce una chiara deroga peggiorativa all'art. 1227 cc (che prevede mera riduzione del danno risarcibile)
+		- è questo il vero requisito innovativo; i primi due sarebbero ricavabili dalla generale norma di cui al 1337 (dovere di informare e rilevanza del comportamento scorretto anche solo colposo). Con questa norma si limita una  responsabilità che, in base al 1227, sarebbe stata più ampia
+		- la giurisprudenza interpreta in modo rigoroso l'art. 1338 ritienendo a priori sussistente la colpa del danneggiato per le cause di invalidità previste direttamente dalla legge: tale orientamento meriterebbe una riconsiderazione, quantomeno con riferimento a quelle ipotesi in cui la conoscenza della legge richieda una specifica competenza tecnica - ovvero si tratti di diritto straniero
+3. ==Violazione della riservatezza==: violazione del dovere di non rivelare a terzi o di non impiegare per motivi diversi dalla stipulazione del contratto quelle informazioni confidenziali concernenti la controparte che siano state acquisite nel corso delle trattative
+4. ==Violazione del dovere di custodia==: dovere di mantenere l'integrità del bene consegnato nel corso delle trattative
+5. ==Violazione del dovere di attivarsi per favorire il buon esito dell'operazione==: ad es. attivarsi per conseguire le autorizzazioni necessarie per legge alla stipula del contratto (ad es. l'autorizzazione del giudice tutelare ex 320 e 322 cc per vendere beni rientranti nel patrimonio del figlio minore)
+6. ==Produzione di vizi completi della volontà==: comportamenti maliziosi o colpevoli che producano un vizio completo della volontà causa di annullamento o rescissione: dolo determinante (1439 cc); violenza fisica o morale (1434 cc); induzione in errore (1427 cc); approfittamento dello stato di bisogno e pericolo al ricorrere dei requisiti richiesti per la rescissione (1447 e 1448 cc).
+	- in questi casi l'azione di risarcimento del danno a titolo di responsabilità precontrattuale potrà cumularsi con quella di annullamento o di rescissione del contratto invalido per vizio del volere
+### 7. Conclusione di un contratto valido (non si ha fallimento delle trattative) ma sconveniente e iniquo
+Le figure sin qui delineate sono accomunate dal fallimento delle trattative, che non sono confluite nella stipulazione di un contratto o hanno condotto alla conclusione di un contratto invalido.
+Per lungo tempo, si è ritenuto che il ==presupposto indefettibile== della responsabilità contrattuale ==fosse il fallimento della trattativa==; viceversa, la conclusione del contratto assorbiva la responsabilità precontrattuale - restando esperibili i soli rimedi della nullità, dell'annullabilità per dolo violenza o errore o della rescissione 
+Con le [[Fattispecie concrete di responsabilità precontrattuale#^c825e0|Sentenze gemelle del 2007]] si supera questo assunto,ritenendo configurabile la responsabilità precontrattuale anche in caso di contratto valido ma iniquo.
+
+La giurisprudenza ne rinviene due principali figure applicative:
+1. ==Vizi incompleti della volontà==: il comportamento di uno dei contraenti pur non essendo stato così grave da integrare gli estremi di uno dei vizi "completi" (errore essenziale e riconoscibile, dolo causam dans, violenza morale, approfittamento di cui agli artt. 1447 e 1448) ha condizionato il consenso della controparte - pregiudicandone la piena consapevolezza in ordine ai termini dell'accordo e alla convenienza dello stesso. Esempi
+	- vizio incompleto: errore non essenziale o riconoscibile (di cui il contraente caduto in errore avrebbe potuto accorgersi)
+	- pressione psicologica non integrante violenza o minaccia ex 1434 
+	- immaturità della controparte che sia comunque legalmente capace ex 1425
+	- stato di bisogno economico che tuttavia non superi la soglia di cui all'art. 1448 (infra dimidium) oppure mera dfficoltà economica non integrante bisogno
+2. ==Violazione del dovere di trasparenza ed informazione==, che conduca alla stipula di un contratto iniquo e sconveniente. La giurisprudenza, ben prima della normativa consumeristica, ha ampliato l'ambito dei doveri informativi ben oltre l'art. 1338 - sancendo un obbligo generale di informazione e illustrazione dei termini dell'affare. Figure sintomatiche della violazione del duty to trasnparency:
+	- nei contratti simmetrici: non bisogna colmare le altrui negligenze; i doveri informativi riguardano solo informazioni che siano nella sfera di dominio di una sola parte e non avrebbero potuto essere acquisite dalla controparte attraverso un comportamento ordinario
+	- in quelli asimmetrici occorre compensare l'asimmetria informativa strutturale di partenza: si spiegano così le disposizioni specifiche (art. 21 ss TUF; 27 ss regolamento CONSOB in tema di intermediazione immobiliare; art. 111 TUB; art. 52 e 87 cod. cons. in tema rispettivamente di contratti a distanza e servizi turistici)
+		- nel campo consumeristico, a più intensa tutela della parte debole, ha talora ricollegato alla violazione dei doveri informativi ==non solo il rimedio risarcitorio, ma anche la nullità (di protezione) o il recesso c.d. pentimento ==(ius poenitendi entro un certo arco temporale). Si ha così la contaminazione tra regole di comportamento e di validità: in tale ambito si ha una vera e propria trattativa fallita
+
+
+### Critiche a quest'ultima forma di responsabilità precontrattuale da contratto valido ed efficace
+1. Si aggira la ==tipicità (numerus clausus) delle cause di invalidità== fissate dal legislatore con i vizi della volontà (errore, dolo causam dans, violenza morale, stato di bisogno con lesione ultra dimidium, ecc.) includendo ipotesi per cui difettano i presupposti e quindi l'invalidità. L'unica ipotesi eccezionale di vizio incompleto riconosciuto dal legislatore è il 1440 cc - il c.d. dolo incidente
+2. Parimenti, per la violazione del ==dovere di informazione e trasparenza== - l'unica ipotesi di responsabilità fissata dal ==1338 cc ha carattere eccezionale==, con la quale ha inteso circoscrivere la portata dei doveri informativi alle sole cause di invalidità del contratto
+3. L'affermazione generale di una responsabilità risarcitoria precontrattuale da contratto valido ==produce un'inaccettabile lesione del principio fondamentale di autonomia privata== e di certezza dei traffici: si introduce uno strumento di ingerenza del giudice sulle scelte di opportunità e convenienza delle parti. Il giudice potrebbe ritenere che l'assetto di interessi predisposto dalle aprti sia frutto di una qualche immaturità, disinformazione, assenza di consapevolezza di una di esse, e così procedere ad una sua autoritativa rideterminazione
+
+
+
+
+
+
+---
+Giurisprudenza:
+==Sentenze gemelle SU 26724 e 26725/2007==: è configurabile la responsabilità precontrattuale anche laddove il comportamento scorretto non abbia impedito la stipulazione di un contratto valido ed efficace, ma abbia inciso negativamente sul contenuto dello stesso (rendendolo asimmetrico e sproporzionato)==trattative dannose== 
+Argomenti: ^c825e0
+- letterale: l'art. 1337 non fissa alcun limite in tal senso, non imponendo che la trattativa debba essere necessariamente infruttuosa
+- teleologico: la buona fede oggettiva è una clausola generale dell'ordinamento, dal contenuto elastico e non predeterminabile, idonea ad assurgere a vera e propria clausola di chiusura del sistema della responsabilità contrattuale - cui ricorrere ogniqualvolta i llegislatore non predisponga un rimedio specifico a tutela della parte che subisca coartazioni
+- sistematico: l'autonomia della responsabilità ex 1337 rispetto all'invalidità del contratto è confermata dalla disciplina del ==dolus incidens== (1440 cc) - che costituisce applicazione specifica della generale e tradizionale ==distinzione tra regole di validità e regole di comportamento== - le prime incidenti sull'atto, le seconde sul risarcimento
+- evolutivo: progresso del pensiero giuridico in tema di giustizia contrttuale - la necessità di individuare un rimedio al contratto proceduralmente iniquo (squilibrio derivante da procedura scorretta nel corso della quale il soggetto dotato di maggior forza contrattuale abbia abusato ai danni della controparte) - ha consentito di individuare tale rimedio nella responsabilità precontrattuale
+

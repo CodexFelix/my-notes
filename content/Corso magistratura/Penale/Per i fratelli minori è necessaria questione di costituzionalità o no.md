@@ -1,0 +1,9 @@
+Scoppola 2009, ha dichiarato illegittima sentenza di condanna perché contraria all'art. 7 CEDU in quanto non consente riduzione della pena dell'ergastolo in caso di richiesta di abbreviato.
+
+L'art. 46 CEDU obbliga al ripristino e alla tutela in forma specifica, mediante conformazione, con obbligo del giudice nazionale a rimuovere la sentenza. Tale rimozione non richiede la rimozione della legge applicata; solo l'illegittimità costituzionale è causa di rimozione della legge. La sentenza principale (o fratello maggiore) non ha necessità di proporre questione di costituzionalità, vedendosi rimossa l'esecuzione della sentenza illegittima.
+Tale ragionamento non è del tutto condivisibile, dato che dà efficacia diretta alla sentenza CEDU introduce sostanzialmente la disapplicazione della norma ritenuta illegittima e contraria alla CEDU, così il giudice nazionale revocando la sentenza del ricorrente.
+
+Per i fratelli minori (che si trovano nella stessa situazione), poi, è necessario incidente di costituzionalità?
+Bisogna distinguere: se l'illecito è del legislatore o della giurisdizione e basta.
+- Se del legislatore, e solo in via indiretta del giudice che ha applicato legge illegittima, dovrà rimuoversi la legge illegittima. E' questa infatti la base legale illegittima della decisione.
+- Diverso il caso di illecito decisorio, errore del giudice che interpreta la legge in maniera anticonvenzionale, rimozione della decisione con incidente di esecuzione (secondo alcuni interpretazione estensivo-analogica del 673 e 30 c. 4; secondo altri eliminazione e dichiarazione di illegittimità delle leggi che)

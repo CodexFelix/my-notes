@@ -1,0 +1,12 @@
+
+# Cass. Civile, Sez. Un. 23 febbraio 2023, n. 5657
+
+**_1) Un contratto aleatorio non è, per ciò solo, immeritevole di tutela ex articolo 1322 c.c. La vendita del raccolto futuro (_emptio spei_), l’assicurazione sulla vita a tempo determinato per il caso di morte, la rendita vitalizia sono tutti contratti aleatori: e se la legge ne consente la stipula, l’aleatorietà non può ritenersi di per sé una caratteristica tale da rendere “immeritevole” di giuridica esistenza il contratto._**
+
+**_Neppure è vietato inserire elementi di aleatorietà in un contratto commutativo. Le parti d’un contratto infatti, nell’esercizio del loro potere di autonomia negoziale, ben possono prefigurarsi la possibilità di sopravvenienze che incidono o possono incidere sull’equilibrio delle prestazioni, ed assumerne, reciprocamente o unilateralmente, il rischio, modificando in tal modo lo schema tipico del contratto commutativo e rendendolo per tale aspetto aleatorio, con l’effetto di escludere, nel caso di verificazione di tali sopravvenienze, l’applicabilità dei meccanismi riequilibratorii previsti nell’ordinaria disciplina del contratto (art. 1467 e 1664 cod. civ.)._**
+
+**_2) Non è dunque lo iato tra prestazione e controprestazione che può rendere un contratto “immeritevole” di tutela ex art. 1322 c.c., se quella differenza sia stata in piena libertà ed autonomia compresa ed accettata. La seconda ragione è che lo squilibrio delle prestazioni non può farsi coincidere la convenienza del contratto. Chi ha fatto un cattivo affare non può pretendere di sciogliersi dal contratto invocando “lo squilibrio delle prestazioni”. L’intervento del giudice sul contratto non può che essere limitato a casi eccezionali, pena la violazione del fondamentale principio di libertà negoziale._**
+
+**_Lo squilibrio (economico) tra le prestazioni se è genetico legittima il ricorso alla rescissione per lesione; se è sopravvenuto legittima il rimedio della risoluzione per eccessiva onerosità sopravvenuta. L’esistenza di tali rimedi esclude dunque la necessità stessa di ricorrere a fantasiose invenzioni circa la “immeritevolezza” d’un contratto che preveda “prestazioni squilibrate”._**
+
+**_In conclusione, il giudizio di “immeritevolezza” di cui è menzione nell’art. 1322 c.c. non può mai trasformarsi in una magica porta di_ Ishtar _attraverso la quale veicolare un inammissibile intervento del giudice sulla convenienza dell’affare._**

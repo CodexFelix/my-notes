@@ -1,0 +1,13 @@
+Tra gravità dell'illecito e sanzione penale.
+- 409/1989: sulla non proporzionalità della pena prevista per l'obiezione di coscienza al servizio militare.
+Gradatamente nel tempo, al principio di proporzione è stata riconosciuta sempre maggiore autonomia, ricollegandolo alla finalità rieducativa della pena, e applicabilità alle sanzioni amministrative di tipo punitivo.
+
+1. Impostazione tradizionale del giudizio costituzionale sulla proporzionalità è triadico, basato su un tertium comparationis (a rime obbligate), comparazione con altra norma incriminatrice che punisce fattispecie simile.
+2. C.cost. 236/2016 su alterazione di stato segna mutamento di rotta: valutazione della ==ragionevolezza intrinseca==. Il tertium comparationis non viene del tutto escluso, ma usato ex post a fine ridotto, di colmare in via transitoria il vuoto di tutela che residuerebbe in presenza di sentenza di accoglimento della corte. Numerose sentenze successive su questa linea:
+	- 179/2017: (necessità di coniugare minimo edittale in tema di coltivazione di stupefacenti - 8 anni, contro c.5 lieve entità che prevede come massimo edittale 4 anni, con una differenza eccessiva di trattamento tra le due fattispecie che sono alternative) sindacato di ragionevolezza intrinseca, escludendo però la possibilità di decidere a propria discrezione la misura della pena. In assenza di un tertium comparationis cui affidarsi per rideterminare il trattamento sanzionatorio, la Corte dovrà fermarsi inviando un monito al legislatore. Intervento legislativo che non avviene
+	- 40/2019 prendendo atto dell'inerzia legislativa, dichiara incostituzionalità art. 73 DPR 309/90, individuando la pena da sostituire in 6 anni.
+	- 222/2018: su sistema delle pene accessorie del delitto di bancarotta, scardinando pene fisse nel quantum
+	- CASS SU 28910/2019: si occupa delle conseguenze applicative della sentenza 222/2018
+	- Corte cost. 185/2021: dichiara incostituzionalità della sanzione amministrativa fissa del decreto Balduzzi per mancata affissione avviso sui rischi del gioco 
+	- C. cost. 63/2022: favoreggiamento dell'immigrazione irregolare. dichiara illegittima l'aggravante che parifica il trattamento sanzionatorio dei trafficanti a quello dell'aiuto per finalità solidaristiche, determinando un trattamento sanzionatorio 5 volte più grave della fattispecie semplice. (sentenza usa tertium comparationis)
+	- 28/2022: incostituzionalità del canone di conversione della pena pecuniaria in detentiva.

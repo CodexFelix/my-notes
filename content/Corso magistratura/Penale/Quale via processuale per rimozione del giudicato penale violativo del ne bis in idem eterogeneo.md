@@ -1,0 +1,3 @@
+Sentenza 149/2022 che ha dichiarato illecittimo art. 649 cpp nella parte in cui non prevede, in caso di ne bis in idem eterogeneo, l'obbligo del giudice penale a seguito di precedente sanzione amministrativa definitiva, di interrompere il procedimento o dichiarare sentenza di non luogo a procedere.
+
+Ma se il processo è culminato in sentenza e questa è passata in giudicato, quale strumento può usarsi per rimuovere il giudicato penale violativo del ne bis in idem?

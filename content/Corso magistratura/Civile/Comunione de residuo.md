@@ -1,0 +1,49 @@
+**_Brevi considerazioni sull'art. 178 c.c. e la comunione de residuo._**
+
+L’art. 178 disciplina il regime dei beni appartenenti ai coniugi che non entrano immediatamente nella comunione (art.177) ma che rimangono personali e rientrano nella comunione solo al suo scioglimento.
+Sono oggetto della comunione de residuo:
+
+- i frutti dei beni propri di ciascuno dei coniugi, percepiti e non consumati (177b)
+
+- i proventi dell’attività separata di ciascuno dei coniugi, non consumati (177c)
+
+- i beni e gli incrementi destinati all’esercizio dell’impresa di uno dei coniugi (178).
+Rientrano invece nella comunione immediata le aziende gestite da entrambi e costituite dopo il matrimonio (177d).
+
+I suddetti beni rientrano quindi nella titolarità e disponibilità di ciascun coniuge fino a quando perdura il regime di comunione, per poi confluire nella massa comune da dividere al momento dello scioglimento della comunione. Da qui l’espressione "de residuo" o comunione differita.
+Il fondamento di detta normativa è da individuare nell’esigenza di tutelare e “proteggere” l’attività economica esercitata da uno dei due coniugi, senza che l’altro possa inserirsi nelle scelte gestionali o influenzarne le decisioni.
+
+L’inesistenza di una situazione di aspettativa giuridica tutelata a favore dell’altro coniuge riceverebbe infatti conferma dalla mancata previsione di specifici rimedi atti a sanzionare il coniuge che, con la propria condotta, pregiudichi la futura partecipazione dell’altro alla metà dei beni.
+Si dubita inoltre che alla comunione de residuo siano estendibili i principi sull’amministrazione dei beni ex art.180 perché per definizione al momento dello scioglimento il patrimonio comune non esiste più.
+
+
+Non è invece chiaro attraverso quale strumento si realizzi l’attrazione nel patrimonio del singolo coniuge all’atto dello scioglimento.
+
+1. Un primo orientamento ritiene che vi sia un passaggio automatico dei beni e dei rapporti in questione, e che vi sia in tal senso un diritto reale in capo al rispettivo coniuge.
+2. In senso contrario la giurisprudenza e la dottrina propendono invece per la tesi del diritto di credito e, più precisamente, che non si verifichi nessun trasferimento ex lege di beni, ma in capo a ciascuno dei coniugi sorga esclusivamente un diritto di credito sulla metà del patrimonio che residua al momento dello scioglimento.
+
+Focalizzando la nostra attenzione sull’art.178 c.c., e premesso che per azienda si intende il complesso dei beni organizzati dall’imprenditore per l’esercizio dell’impresa ai sensi del 2555 c.c., ove i coniugi provvedano congiuntamente all’esercizio dell’impresa, entrambi acquisteranno la qualifica di imprenditori e si applicherà la comunione immediata ex 177d), mentre in assenza di cogestione la qualifica di imprenditore (così come per l’art.230bis) spetterà solamente al titolare dell’impresa e si applicherà la disciplina prevista dall’art.178.
+
+Bisogna poi distinguere i beni ex 178 dai beni professionali ex 179d), stante la profonda diversità di presupposti ed effetti tra le due norme, per cui non è possibile applicare ai beni destinati all’esercizio dell’impresa la disciplina prevista per i beni strumentali all’attività professionale.
+
+E’ sufficiente infatti l’effettiva ed oggettiva destinazione del bene a servizio dell’azienda perché possa applicarsi la disciplina prevista dall’art.178, senza necessità di ulteriori formalismi.
+
+Non è perciò necessario che il coniuge imprenditore espressamente dichiari al momento dell’acquisto la sua intenzione di destinare il bene all’impresa e che all’atto di acquisto partecipi anche l’altro coniuge.
+
+Essendo pertanto la destinazione del bene all’impresa un presupposto di fatto, in concreto non potrà essere possibile nessun tipo di pubblicità legale che renda preventivamente edotti i terzi della situazione di quel determinato bene, ma si dovrà ogni volta procedere ad una analisi in concreto della reale destinazione del bene.
+
+Discussa è inoltre l’ipotesi in cui la destinazione all’esercizio di impresa venga meno prima dello scioglimento della comunione: secondo un primo orientamento il venir meno della destinazione comporterebbe l’immediata caduta in comunione del bene. In senso contrario altra parte della dottrina ritiene che il mutamento di destinazione non incida sulla proprietà del bene. Tuttavia nel caso in cui un coniuge destini all’impresa un immobile acquistato con il prezzo ricavato dalla vendita di un bene (oggettivamente) personale, si ritiene che l’acquisto ricada nella disciplina del 179 c.c., purché siano rispettati tutti i presupposti.
+
+
+### **Cass., sezioni unite 15889/2022**: **la comunione de residuo sui beni aziendali ex art. 178 cc conferisce al coniuge non imprenditore un mero diritto credito**, e tanto al fine di valorizzare le esigenze dell’impresa, sia dal lato del coniuge imprenditore, che dei suoi creditori. 
+Difatti, **il riconoscimento di una comunione ordinaria tra i coniugi sui beni aziendali potrebbe risultare potenzialmente paralizzante dell’attività di impresa, che, invece, ben potrebbe continuare anche dopo lo scioglimento della comunione legale**, rafforzando vincoli coniugali che andrebbero, invece, attenuati al venir meno del regime legale. Infine, la tutela dei creditori aziendali impone di considerare l’affidamento da essi riposto nell’integrità della loro garanzia patrimoniale che, con l’instaurarsi di una comunione ordinaria tra i coniugi, verrebbe ridotta alla sola quota di comproprietà spettante al coniuge imprenditore;
+
+L’art. 178 c.c. regola, dunque, i beni destinati all’esercizio dell’impresa, mentre l’art. 179 lett. d) c.c. i beni che servono all’esercizio della professione. Il loro trattamento giuridico è diverso, in quanto, mentre i primi sono oggetto di comunione de residuo, i secondi restano beni personali del coniuge alla cui professione sono destinati.
+
+Posta la riconduzione della presente fattispecie alla disciplina dell’art. 178 c.c. e quindi alla c.d. comunione de residuo, la Suprema Corte affronta il dibattuto quesito della qualificazione giuridica del diritto spettante al coniuge allo scioglimento della comunione. Mentre in primo grado la Corte Territoriale aveva attribuito alla moglie un diritto di comproprietà pari al 50% dei beni aziendali, la Corte di Appello riformava la sentenza, ritenendo attribuibile alla stessa solo un diritto di credito. Su tale conflitto sono state chiamate ad esprimersi le Sezioni Unite nella sentenza in commento.
+- A favore della tesi della natura reale del diritto attribuito al coniuge non imprenditore, le Sezioni Unite richiamano quella parte della giurisprudenza (Cass. n. 2680/2000; Cass. n. 7060/2004; Cass. n. 19567/2008; Cass. n. 13760/2015) facente riferimento al dato normativo e alle prevalenti esigenze di tutela del coniuge non imprenditore. La lettera dell’art. 178 c.c. espressamente dichiara che “_si considerano oggetto della comunione_” (_rectius_ comunione ordinaria) sempre che sussistano ancora al momento dello scioglimento della comunione legale; mentre l’art. 192 c.c., nel regolare i rimborsi e le restituzioni da effettuare tra coniugi al cessare del regime di comunione legale, nulla prevede in ordine ai beni della comunione de residuo. Infine, la contitolarità dei beni aziendali preserverebbe il coniuge non imprenditore dal concorso con i creditori del coniuge imprenditore.
+- A favore della tesi della natura creditizia del diritto, la dottrina (A. Auciello, F. Badiali, C. Iodice, S. Matteo, _La volontaria giurisdizione e il regime patrimoniale della famiglia_, Milano, 2000) e la prevalente giurisprudenza (Cass. n. 7060/1986; Tribunale di Camerino 5 agosto 1988; Cass. n. 4533/1997; Cass. n. 6876/2013) tendono a valorizzare le esigenze sottese alla ==ratio della comunione de residuo, ossia quelle dirette a consentire, da un lato, la libera iniziativa imprenditoriale del coniuge acquirente, dall’altro, la legittima aspettativa dell’altro coniuge agli incrementi di valore dei beni aziendali==. Inoltre, affermare l’automatico venire in essere di una situazione di contitolarità reale dei cespiti aziendali potrebbe risultare pregiudizievole per i terzi, i quali potrebbero non avere consapevolezza dell’assoggettamento dei beni al regime di comunione.
+
+La conclusione cui giunge la Suprema Corte è, come anticipato, il riconoscimento al coniuge non imprenditore di un ==mero diritto credito, al fine di valorizzare le esigenze dell’impresa, sia dal lato del coniuge imprenditore, che dei suoi creditori==. Difatti, il riconoscimento di una comunione ordinaria tra i coniugi sui beni aziendali potrebbe risultare ==potenzialmente paralizzante dell’attività di impresa==, che, invece, ben potrebbe continuare anche dopo lo scioglimento della comunione legale, rafforzando vincoli coniugali che andrebbero, invece, attenuati al venir meno del regime legale. Infine, la ==tutela dei creditori aziendali impone di considerare l’affidamento da essi riposto nell’integrità della loro garanzia patrimoniale che, con l’instaurarsi di una comunione ordinaria tra i coniugi, verrebbe ridotta alla sola quota di comproprietà spettante al coniuge imprenditore==.
+
+In base alle motivazioni sopra esposte, il Supremo Collegio conclude per la prevalenza dei suddetti altri concorrenti diritti di pari dignità costituzionale sulle esigenze solidaristiche familiari, riconoscendo al coniuge non imprenditore un mero diritto di credito sui beni oggetto della comunione de residuo, pari alla metà dell’ammontare del denaro o dei frutti oggetto di comunione de residuo, ovvero del controvalore dei beni aziendali e degli eventuali incrementi, al netto delle passività.

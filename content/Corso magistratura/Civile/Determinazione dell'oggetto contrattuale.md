@@ -1,0 +1,6 @@
+- Determinazione in senso stretto: il giudice accerta in modo vincolato, con pura attività dichiarativa, quale era l'esito del criterio predefinito dalle stesse parti.
+- Si ha determinabilità in senso lato quando le parti abbiano fissato dei criteri, ma sono criteri discrezionali (elastici). Il giudice non può più determinare l'oggetto, in quanto si sostituirebbe alle parti in valutazioni discrezionali loro riservate. Si avrebbe il paradosso di un contratto che ha al proprio interno la propria nullità. L'art. 1349 cc prevede che, in caso di rimessione all'arbitrio del terzo, se questi non decide, il contratto è nullo a posteriori. 
+	- il mero arbitrio del terzo non esclude il fatto che essa sia comunque vincolata, è discrezionale 
+	- nel caso di equo apprezzamento, il terzo deve dichiarare semplicemente la volontà implicita delle parti
+
+Parimenti l'art. 1447 cc in tema di compravendita postula l'accertabilità del giusto prezzo di mercato ed esclude la determinabilità per beni idiosincratici (es. la casa), in cui la valutazione è personalissima.

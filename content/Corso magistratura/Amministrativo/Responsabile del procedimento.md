@@ -1,0 +1,44 @@
+---
+Fonti
+Capo II (art. 4 ss) L. 241/90
+---
+Il responsabile del procedimento è colui al quale è affidato il ruolo di autorità guida del procedimento amministrativo. Egli vigila sul decorso del procedimento, assicurando le connessioni tra le varie fasi e rappresenta un punto di riferimento per il cittadino, in armonia con i principi di trasparenza, efficienza ed efficacia dell'azione amministrativa.
+
+L'istituto del responsabile del procedimento è stato introdotto per contrastare la frammentazione e il rallentamento dell'azione amministrativa. E' il referente principale per il pubblico; in tal modo, il soggetto che viene in contatto un PU ha di fronte a sè non più un organizzazione, bensì un interlocutore che risponde dell'operato svolto a nome della PA cui appartiene.
+Al responsabile gli interessati possono rivolgersi per partecipare al procedimento nelle forme consentite dalla L. 241
+
+Al fine di conferire effettività all'obbligo di concludere il procedimento con un provvedimento espresso nei termini di legge, il Legislatore ha sancito la responsabilità dirigenziale del funzionario competente all'emanazione del procedimento finale - ovvero del responsabile del procedimento ove questi sia competente anche all'emanazione del provvedimento finale. In tal modo viene esteso anche all'ipotesi del mancato rispetto dei termini di cui all'art. 2 L. 241 l'istituto della responsabilità dirigenziale di cui all'art. 4 c. 2 TUPI.
+
+### Individuazione del responsabile del procedimento
+- Art 4: Ogni PA è tenuta a determinare l'Unità Organizzativa (struttura o articolazione dei pubblici uffici) responsabile dell'istruttoria, adempimenti procedimentali e provvedimento finale. Tale determinazione va pubblicizzata, secondo quanto previsto dai singoli ordinamenti.
+- Art. 5 Il dirigente di ogni UO deve assegnare la responsabilità dell'istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale; in assenza di determinazione il dirigente è responsabile.
+- La legge differenzia nettamente la determinazione dell'UO dalla designazione della persona fisica responsabile del procedimento
+	- il CdS ha affermato il carattere di atto sostanzialmente normativo (da adottarsi con regolamento) con cui le PA provvedono alla identificazione delle UO responsabili dell'iter procedimentale delle diverse tipologie di atto. L'individuazione del responsabile del singolo procedimento può avvenire con atto puntuale o mediante criteri automatici (in quest'ultimo caso il soggetto sa già anticipatamente che al ricorrere di determinati presupposti assumerà la veste di responsabile del procedimento). La nomina del responsabile rientra nei poteri privatistici di gestione del rapporto di lavoro; non comporta il trasferimento di funzioni amministrative da un organo ad un altro e non crea nuove competenze- Piuttosto identifica un nuovo modo di organizzare e svolgere mansioni ordinarie
+	- I rapporti tra responsabile del procedimento e altri dipendenti coinvolti nello stesso: il primo non riveste una posizione sovraordinata - è innegabile che a seguito dell'assunzione il funzionario avrà il diritto di sollecitare gli altri addetti riguardo all'adozione dei comportamenti dovuti, oltre che di denunciare omissioni o inadempienze dei collaboratori
+- Per la giurisprudenza amministrativa non tuttte le attività procedimentali sono sottoposte all'obbligo di designazione del responsabile del procedimento - ne sarebero escluse quelle a carattere vincolato o collegiale
+- Quanto alle conseguenze dell'omessa designazione/comunicazione del responsabile, la giurisprudenza reputa che  essa non determina l'illegittimità del provvedimento finale, ma soccorre il criterio legale per cui è responsabile il dirigente dell'UO. Non c'è quindi un vuoto procedimentale, ma una mera situazione di irregolarità dell'atto non invalidante. Ciò può comunque rilevare ai fini di un'eventuale responsabilità disciplinare dell'agente che ha omesso la comunicazione
+- Un serrato dibattito si è avuto, poi, al fine di stabilire le modalità applicative della disciplina de qua nel caso di procedimenti complessi, articolati in una serie di fasi implicanti l'intervento di uffici diversi della stessa PA o ente ovvero di molteplici Amministrazioni o enti diversi. 
+	- alla generale interpretazione nel senso dell'unicità del responsabile osta il dato normativo che fa riferimento alla necessità di individuare un responsabile per ==ogni PA==
+	- alla luce di tale dato, deve ritenersi che nel caso di distinte PA ciascuna deve individuare il proprio responsabile - mentre nel caso di più uffici facenti capo alla stessa PA è sufficiente un solo responsabile
+- In base all'art. 5 c. 3 l. 241, l'UO e nominativo del responsabile sono comunicati ai soggetti di cui all'art. 7 (comunicazione di avvio procedimento)
+
+### Compiti del responsabile del procedimento
+L'istruttoria è caratterizzata dal principio dell'iniziativa d'ufficio
+- il responsabile può acquisire ogni elemento utile per l'istruttoria (principio acquisitivo), con la possibilità per il privato di sanare le istanze o dichiarazioni erronee o incomplete (principio di regolarizzazione degli atti)
+- può chieder la rettifica di irregolarità formale, anche nei procedimenti concorsuali o di gara, a condizione che non sia turbata la par condicio dei concorrenti
+- l'organo competente all'adozione del provvedimento finale, ove diverso dal responsabile, è tenuto a dar conto nel provvedimento finale delle ragioni che l'abbiano eventualmente indotto a discostarsi dall'istruttoria
+	- la relazione istruttoria redatta dal responsabile è atto interno del procedimento non immediatamente lesivo
+
+Le disposizioni sul responsabile hanno fortemente attenuato i lprincipio di gerarchia:
+- il dirigente dell'UO ha il compito di scegliere il responsabile; tuttavia, compiuta questa scelta, la gestione e il coordinamento del concreto iter procedimentale divengono di competenza del responsabile, che ne risponde direttamente
+- al dirigente rimane la titolarità della funzione di vigilanza, di coordinamento e controllo sull'operato dei funzionari dipendenti e, soprattutto, può sostituire il responsabile in caso di sua inerzia, eventualmente su denunzia / segnalazione dell'interessato
+- in definitiva il responsabile ha un'ampia sfera di autonomia operativa; egli, nello svolgimento dell'attività amministrativa, non può che rispondere egli stesso dei propri comportamenti. Quindi, se è pur vero che, in linea teorica, il dirigente dell'UO può revocare la nomina con la quale ha attribuito la responsabilità procedimentale - è altrettanto indubbio che egli non può invadere quella sfera di autonomia che deve caratterizzare l'azione del responsabile del procedimento; ne consegue che gli ordini dei superiori, ove afferenti alla gestione dell'attività procedimentale, potranno degradare a meri consigli, come tali non vincolanti e legittimamente disattendibili ove non condivisi dal destinatario.
+
+### Profili di responsabilità
+La nozione di responsabilità emergente dagli artt. 4, 5 e 6 l. 241/90 identifica un nuovo modello di svolgimento dell'azione amministrativa.
+La legge sul procedimento ha,inoltre, inteso rendere più agevole l'identificazione dei soggetti responsabili a titolo penale, civile, amministrativo e disciplinare, delle violazioni di legge e delle anomalie verificatesi nel corso dell'azione dei pubblici poteri.
+
+Occorre rilevare che l'art. 6 L. 241 si limita ad elencare gli adempimenti cui è tenuto il responsabile del procedimento, senza sancire le conseguenze di ordine sanzionatorio. Stante l'assenza di disciplina specifica, devono ritenersi applicabili le disposizioni generali in tema di responsabilità penale, civile, amministrativa, contabile e disciplinare dei pubblici dipendenti, con la precisazione che il responsabile del procedimento è direttamente responsabile (ex art. 28 Cost.) in sede civile, penale e amministrativa, degli atti posti in essere in violazione delle posizioni giuridiche soggettive dei privati.
+- Responsabilità penale: la fattispecie che maggiormente interessa è l'omissione di atti d'ufficio (328 cp); si è posto il problema se l'omissione riguarda solo il provvedimento finale o rilevi anche per gli atti infraprocedimentali. La dottrina prevalente ritiene che la disposizione sanzioni anche l'omissione di atti infraprocedimentali che il responsabile è tenuto a compiere in forza dell'art. 6 L. 241
+- Responsabilità civile: diretta ex art. 28 Cost. e si estende allo Stato e agli enti pubblici
+- Disciplinare: sanzioni previste per il mancato rispetto dei doveri gravanti su di lui, oltre che responsabilità amministrativa e contabile per danni arrecati alla PA. Responsabilità amministrativa da danno erariale del dipendente pubblico è comunque esclusa nel'ipotesi in cui il danno sia in tutto o in parte imputabile alla disorganizzazione della PA.

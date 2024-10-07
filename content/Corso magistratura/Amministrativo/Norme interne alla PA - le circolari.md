@@ -1,0 +1,13 @@
+Norme interne, a differenza delle fonti del diritto (primarie e secondarie), dettano prescrizioni indirizzate soltanto a coloro che svolgono attività nell'ambito di quell'ordinamento, senza assumere rilevanza nell'ordinamento giuridico generale.
+La vincolatività non ha carattere assoluto neppure per il dipendente, che può discostarsi dall'ordine contenuto nelle norme interne nelle ipotesi in cui lo stesso risulti illegittimo
+
+- Le circolari sono la fattispecie più controversa di norma interna, in quanto non costituiscono fonti del diritto in senso proprio.
+	- il fatto di avere una pluralità di soggetti come destinatari e un contenuto sostanzialmente omogeneo e indifferenziato per i destinatari ha determinato sospetti circa la ==natura fondamentalmente normativa==
+	- In realtà, la circolare è un atto amministrativo, senza rilevanza esterna, che assurge al rango di norma interna dell'amministrazione
+	- Ha quindi efficacia soltanto interna alla PA, non può derogare la legge e neppure essere considerata dalle norme regolamentari. Non possono produrre effetti verso soggetti esterni alla PA e non possono essere considerate vincolanti.
+		- Secondo la dottrina prevalente (Sandulli), le circolari sono uno strumento con il quale possono essere comunicati contenuti diversi - tra cui le norme interne della PA, estranee alle fonti normative. 
+
+Impugnabilità delle circolari:
+- Non si pongono problemi se la circolare lede un diritto soggettivo, in virtù della possibilità del GO di verificare la fondatezza della pretesa, con cognizione incidentale sugli atti emanati dalla PA. Pertanto sull'interessato non grava l'onere di impugnare né la circolare né l'atto di applicazione
+- Viceversa, per le circolari che ledano interessi legittimi, si è posta la questione della loro diretta impugnabilità indipendentemente da quella dell'atto successivo applicativo.
+	- La giurisprudenza ritiene che le circolari non hanno valore normativo o provvedimentale, né carattere vincolante per i destinatari dei relativi atti applicativi, che pertanto non hanno l'onere di impugnarle immediatamente. Potranno comunque limitarsi a contestarne la legittimità al solo scopo di sostenere che tali atti sono illegittimi in quanto scaturenti da una circolare illegittima che sarebbe dovuta essere disapplicata. Ne consegue che una circolare contra legem può essere disapplicata dal giudice amministrativo anche senza richiesta di parte (Cons St. IV 5664/2017)

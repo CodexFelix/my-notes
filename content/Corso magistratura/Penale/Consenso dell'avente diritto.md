@@ -1,0 +1,6 @@
+- Esimente, proprio (art. 50 c.p.), con riferimento a beni disponibili.
+- Non esimente, nel caso in cui:
+	- la norma penale preveda come elemento costitutivo implicito o esplicito l'assenza di consenso (es. 614 c.p.)
+	- il consenso sia stato estorto con inganno (truffa, circonvenzione di incapaci, violenza sessuale impropria)
+	- scriminante come esercizio del diritto (es. attività medico-chirurgica), che ha come requisito - affinché l'attività sia autorizzata - il consenso dell'avente diritto.
+	- quasi-scriminante, il caso dell'omicidio del consenziente (579 cp) [[FOCUS Consenso putativo nell'omicidio del consenziente]]

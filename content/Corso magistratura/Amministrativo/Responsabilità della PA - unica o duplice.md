@@ -1,0 +1,11 @@
+Sent. Francovich per illecito comunitario e sentenza SU 500/99 (est. Preden) per illecito nazionale è stata superata la barriera dell'irresponsabilità della PA a titolo risarcitorio. La PA risponde ex 2043 c.c. per illegittimo esercizio del potere lesivo (non solo del diritto ma anche) dell'interesse legittimo.
+In una recente ordinanza, 23484/2022, la Cassazione ha ribadito il principio di responsabilità della PA, in quel caso per illecito comunitario, per omesso recepimento della direttiva europea sulla tutela indennitaria delle vittime di alcuni reati violenti.
+
+Si applicano inoltre le forme di presunzione di responsabilità (2050, 2051, leggi speciali) che agevolino nella prova la vittima dell'illecito.
+
+E' di interesse odierno la sent. SU 13246/2019: responsabilità della PA per propri dipendenti
+- E' solo diretta o anche indiretta? Risponde solo ex art. 2043 in connessione con art. 28 Cost. o anche ai sensi dell'art. 2049 c.c. (responsabilità del datore di lavoro per fatto degli ausiliari). Nel primo caso il limite è che l'atto posto in essere dal funzionario o dall'organo deve essere imputabile alla PA (immedesimazione organica). Nel caso in esame, il dipendente essendosi appropriato di cose, non agiva nell'interesse della PA (fine egoistico incompatibile con imputazione dell'atto).
+- SU, in omaggio al principio di integrità della responsabilità e assottigliamento delle esenzioni, ammette la responsabilità ex 2049. Argomento è il ==nesso di occasionalità necessaria==, il dipendente è stato agevolato dall'esercizio della funzione pubblica e sarebbe stato esigbile da parte della PA un controllo sull'operato dei dipendenti in relazione a uno sviluppo (anche se illecito) non anomalo, e quindi prevedibile, dell'esercizio della funzione.
+- Sarebbe intollerabile la disparità di trattamento tra un ente pubblico (immune) e una società privata (responsabile), quando entrambi hanno un potere/dovere di controllo sui dipendenti.
+
+Sono ovviamente esclusi i casi di occasionalità non necessaria (e quindi non funzionale, non connesso alla funzione che renda più possibile la commissione dell'illecito): es. dipendente incontra sul luogo di lavoro il rivale e lo uccide. La dipendenza della Pa è mera occasione.

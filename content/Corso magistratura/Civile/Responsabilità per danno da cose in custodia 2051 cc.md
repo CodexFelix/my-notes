@@ -1,0 +1,58 @@
+Responsabilità salvo che provi il caso fortuito.
+Cosa deve intendersi per caso fortuito?
+Se si ritiene possibile che il custode si liberi provando di aver adottato tutte le misure necessarie per la custodia della cosa, allora si è dinanzi ad una responsabilità di tipo soggettivo. 
+
+Caso Fortuito può avere triplice rilievo:
+1. Autonomo, nel senso che il caso fortuito ha autonomamente determinato l'evento di danno, a nulla rilevando la cosa.
+2. Incidente, nel senso che la cosa costituisce semplice occasione del danno - che non è riconducibile ad essa. Il danno è sempre riconducibile al fortuito.
+3. Concorrente, caso in cui il fattore considerato come fortuito concorre/contribuisce unitamente alla res alla causazione del pregiudizio. 
+Il caso fortuito può consistere sia in un fattore naturale (per la giurisprudenza deve essere autonoma causa del danno, capace di interrompere il nesso causale [[Responsabilità per danno da cose in custodia 2051 cc#^8d11e8]]) che in un fatto umano (fatto del terzo).
+
+Che caratteristiche deve avere il fatto del terzo per integrare caso fortuito? Rileva la giurisprudenza sulla responsabilità della PA da custodia di strade pubbliche: caso di improvvisa perdita di olio (fatto del terzo) da parte del veicolo sul manto stradale che determina il sinistro stradale. 
+Può integrare caso fortuito purché ricorrano alcune condizioni:
+- deve essere fatto eccezionale rispetto al quale non sia possibile un immediato e repentino intervento correttivo. L'intervento correttivo deve essere impossibile per due ordini di ragioni: temporale (non avendo la PA il tempo per intervenire) e per assenza di conoscenza (non potendo prefigurarsi un evento di questo tipo).
+
+Altra giurisprudenza distingue tra Insidia intrinseca alla res, connaturata alla medesima, la responsabilità è oggettiva. Se invece è estrinseca, che si è instaurata sulla res per effetto di una condotta altrui, bisogna domandarsi la possibilità per il custode di intervenire; in questo caso è soggettiva, sia pur da colpa presunta.
+
+
+Il nesso di causalità in questa particolare forma di responsabilità è fra cosa e danno e non fra attività di custodia e danno. 
+
+#### Cosa si intende per custodia?
+Relazione non necessariamente giuridica, ma anche di mero fatto (disponibilità).
+
+#### Responsabilità della PA per custodia strade pubbliche
+In passato la giurisprudenza escludeva recisamente la sussistenza di una responsabilità ex 2051 c.c. a causa dell'enorme estensione territoriale delle strade pubbliche, tale da non consentire un controllo da parte dell'ente pubblico.
+Occorre distinguere a seconda del tipo di bene demaniale: vi sono beni per cui la relazione di custodia può effettivamente configurarsi: si pensi alle strade Comunali di ridotte dimensioni, specie se situate all'interno di centri urbani; o ancora alle Autostrade, il cui accesso è regolamentato e che sono sottoposte ex lege e ex contractu a specifici controlli gravanti sul gestore autostradale.
+La giurisprudenza di recente va oltre, affermando che per ogni bene demaniale è configurabile una responsabilità ex 2051. Quello che varia è esclusivamente il contenuto della prova liberatoria: posto che tutti i beni demaniali sono suscettibili di responsabilità ex 2051, le caratteristiche del singolo bene demaniale oggetto di custodia servono non ad escludere la responsabilità ex 2051 ma a definire il contenuto della prova liberatoria. 
+
+--- 
+Giurisprudenza: 
+Sulla condotta del danneggiato:
+- Cass. 9693/2020: la mancata adozione di cautele da parte del danneggiato può escludere la responsabilità del custode, assumendo autonoma efficienza causale nella determinazione dell'evento dannoso e così interrompendo il nesso causale, là dove assuma efficienza causale autonoma. Affinché ciò avvenga, tuttavia, il comportamento del danneggiato deve essere qualifcabile come abnorme, ossia estraneo al novero di possibilità fattuali concretamente prevedibili in relazione al contesto. Altrimenti rileverà solo ai sensi dell'art. 1227 c.c.
+- Cass. 19716/2020: il comportamento del danneggiato assume diverso valore a seconda del grado di incidenza cusale sull'evento dannoso, in applicazione dell'art. 1227 c. 1 c.c. Occorre una valutazione che tenga conto del dovere generale di ragionevole cautela, riconducibile al dovere di solidarietà di cui all'art. 2 Cost. Ne conseegue che quanto più la situazione di danno è prevedibile e superabile attraverso l'adozione di normali cautele, tanto più deve ritenersi incidente il comportamento colposo del danneggiato, fino al punto di poter escludere il nesso causale tra fatto ed evento di danno quando sia da escludere la sua ragionevolezza o accetabilità secondo un criterio probabilistico di regolarità causale.
+- Cass. 8879/2020: La responsabilità per danno da cosa in custodia (2051) prescinde da ogni connotato di colpa, sicché è sufficiente allegare il rapporto causale tra cosa ed evento dannoso. Il caso fortuito, rappresentato da fatto naturale o condotta del terzo o dello stesso danneggiato, deve essere connotato da imprevedibilità e inevitabilità, da intendersi in senso oggettivo dal punto di vista della regolarità causale, senza alcuna rilevanza della diligenza o meno del custode.
+- Cass. 4178/2020: la condotta del danneggiato si atteggia diversamente a seconda del grado di incidenza causale sull'evento dannoso; quanto più la situazione di danno è prevedibile dal danneggiato e superabile attraverso l'adozione di cautele, tanto più deve considerarsi incidente l'efficienza causale del comportamento imprudente del medesimo nel dinamismo causale del danno.
+- Cass. 26254/2020: non integra il caso fortuito, e non esclude il nesso di causalità, la mera condotta coplosa della vittima (caduta in una buca stradale). Per integrare il caso fortuito è necessario che la condotta presenti i caratteri di imprevedibilità ed eccezionalità sì da interrompere il nesso causale tra cosa in custodia e danno.
+- Cass. 29435/2020: La condotta del danneggiato si atteggia diversamente a seconda del grado di incidenza causale sull'evento dannoso, in applicazione anche ufficiosa dell'art. 1227 cc - tenendo conto del dovere generale di solidarietà espresso dall'art. 2 Cost. (ordd. 2840, 2841, 2842 e 2841 del 2018). Ne consegue che tanto più la situazione di danno è prevedibile ed evitabile dal danneggiato, tanto più deve considerarsi incidente sull'efficienza causale il suo comportamento imprudente, fino a rendere possibile che detto comportamento interrompa il nesso causale tra fatto ed evento lesivo - quando il suo comportamento non costituisca un'evenienza ragionevole o accettabile secondo un criterio probabilistico di regolarità causale, connotandosi invece per l'esclusiva rilevanza causale nella produzione del sinistro. (la Corte ha escluso la responsabilità del Comune per la caduta del passante in una buca, che era ben visibile al passante)
+- Cass. III ord 39965/2021: Per escludere il nesso di causalità, non basta che la condotta del danneggiato sia meramente colposa, dovendo essere connotata da imprevedibilità ed imprevenibilità. Nel caso in esame, riguardante la caduta da motociclo per la presenza di sconnessione stradale, la condotta colposa del danneggiato non è automaticamente idonea ad escludere il nesso causale.
+
+Individuazione del custode responsabile in caso di locazione:
+- Cass. 28197/2020: in caso di locazione di immobile, pur configurandosi ordinariamente l'obbligo di custodia in capo al conduttore, rimane tuttavia in capo al proprietario la responsabilità per danni arrecati dalle strutture murarie e dagli impianti in esse conglobati, dele quali quest'ultimo conserva la disponibilità giuridica e quindi la custodia.
+	- Critica: tuttavia, la responsabilità del custode si fonda su una relazione di fatto, che nel caso in esame è intrattenuta col conduttore, che ha anche il maggior vantaggio informativo e che può intervenire sulle fonti di pericolo con minore sforzo.
+	- inoltre, la responsabilità da cosa in custodia è posta a garanzia del danneggiato, che verrebbe frustrato in caso di rigetto ove agisse verso il conduttore
+
+Caso fortuito ed evento metereologico intenso: ^8d11e8
+- Cass. SU 5422/2021: un evento meteorologico per assumere rilievo causale esclusivo e quindi essere qualificato come caso fortuito, deve essere provvisto necessariamente dei due requisiti ==dell'eccezionalità e dell'imprevedibilità== (Cass. 30521/2019, 2482/2018, 18856/2017). L'imprevedibilità deve intendersi come obiettiva inverosimiglianza dell'evento, all'esito di un'indagine conoscitiva ex ante, mentre l'eccezionalità come deviazione sensibile dalla regolare frequenza statistica, tale da costituire un eccezione.
+
+Danno da cose in custodia e appalto:
+- Cass. III ord. 12909/2022: in caso di contratto di appalto, nei confronti dei terzi, il committente è sempre gravato da responsabilità oggettiva ex art. 2051 c.c., la quale non può venire meno per la consegna dell'immobile all'appaltatore ai fini dell'esecuzione delle opere stesse. Essa trova un limite nella sola ipotesi di caso fortuito; ciò non esclude ulteriori responsabilità del committente o dell'appaltatore ex art. 2043 cc.
+	- individuazione del caso fortuito nella condotta dell'appaltatore: rileva solo se la sua negligenza è imprevedibile e inevitabile.
+- prima di allora la giurisprudenza riteneva essere custode l'appaltatore, perché dotato di mezzi e autonomia. Il committente rispondeva solo in caso di culpa in eligendo (avendo scelto male l'appaltatore).
+- nb in caso di appalto pubblico, dati gli importanti poteri di controllo riconosciuti al committente, la giurisprudenza riconosceva pacificamente la sua responsabiiltà da custodia ex 2051 cc
+
+Danno da fauna selvatica:
+- Cass. III 7969/2020: il SC supera l'opinione tradizionale che riconduceva l'art. 2052 ai soli animali domestici, in quanto solo per questi si avrebbe un effettivo rapporto di custodia con il responsabile: la disposizione in parola si fonda non sull'effettiva esistenza di una situaione di custodia, quanto spiuttosto sulla ==proprietà o sulla detenzione dell'animale==, con conseguente possibilità di ricomprendervi tuttte le specie suscettibili di utilizzazione da parte dell'uomo, compresa la fauna selvatica. Ciò è conforme con la proprietà pubblica degli animali selvatici, che per espressa disposizione del legislatore, costituiscono patrimonio indisponibile dello Stato. L'art. 2052 risponde al principio ubi commoda ibi et incomoda: l'ente pubblico è tenuto a farsi carico dei danni cagionati dalle res di cui tragga utilità, indipendentemente dall'esistenza di un effettivo rapporto di custodia.  Ai fini dell'individuazione dell'ente responsabile, il soggetto responsabile va individuato nella Regione, cui la legge attribuisce funzioni normative e amministrative; gli eventuali rapporti di delega/attribuzione originaria di funzioni ad altri enti assumono rilevanza unicamente nei rapporti interni mediante azione di rivalsa della Regione, che potrà pure convenirli nel giudizio principale promosso dal danneggiato.
+- Cass. ord. VI 9621/2022: in tema di danni cagionati da cani randagi, il danneggiato è chiamato solo a provare che l'evento dannoso rientri nel novero di quelli che la regola cautelare mirava ad evitare. L'ulteriore prova dell'esistenza di segnalazioni o richieste di intervento è meramente eventuale e diventa necessaria solo dopo che l'ente pubblico ha fornito la prova di essersi attivato rispetto all'onere cautelare cui è tenuto.
+
+Condominio:
+Cass. SU 9449/2016 responsabilità ex 2051 del condomino usuario esclusivo del lastrico solare, che si cumula a quella del condominio ex 2043, se non ha effettuato le adeguate opere di manutenzione del lastrico solare.

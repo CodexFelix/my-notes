@@ -1,0 +1,19 @@
+Il tentativo incrimina già un pericolo. E' possibile l'incriminazione di un pericolo di pericolo?
+Mentre nei reati di attentato c'è un quid minus rispetto al tentativo: prima della riforma del 2005 e dell'intervento giurisprudenziale, si richiedeva che l'atto fosse semplicemente diretto. La riforma ha aggiunto il requisito dell'idoneità. Ma se così è l'attentato è nulla più che un tentativo trattato come reato consumato per la qualità dei beni giuridici interessati. (SU 1/1970)
+
+Più attuale è il problema per i reati di pericolo in senso stretto, per cui si pone l'eventualità che abbia una vicinanza più pregnante rispetto al tentativo. Se il reato di pericolo è più di un tentativo, con riferimento al bene giuridico tutelato, non ci sono ostacoli alla configurazione di quella che è stata definita una progressione all'esposizione a pericolo, una progressiva vicinanza verso il reato consumato. Questo quando il reato pur essendo di pericolo, e non di danno, sia caratterizzato da un'elevata pericolosità per il bene giuridico e la prossimità alla lesione.
+
+1. Tesi contraria: i reati di pericolo sono eccezioni al sistema, che incriminano comportamenti non lesivi e che quindi non possono consentire ulteriori anticipazioni rispetto alla soglia di punibilità da essi fissata. Si finirebbe per punire un pericolo di pericolo (sono gli stessi argomenti ostativi al tentativo di reati di attentato) [argomenti spesi per artt. 270-bis e 270-ter, 74 DPR 309, e per reati associativi in genere]. Non manca chi distingue il tentativo di costituire un'associazione da quello di partecipare ad un'associazione già costituita (Quest'ultima ipotesi solo potrebbe integrare un tentativo punibile)
+2. Tesi opposta: i reati di pericolo sono fattispecie eterogenee, bisogna valutare casisticamente la compatibilità con il tentativo. Se la pericolosità è particolarmente vicina all'offesa, in maniera molto più pregnante al tentativo, deve potersi ammettere il tentativo a tale reato di pericolo. Una tesi non molto condivisibile condivide tra reati di pericolo astratto e concreto.
+
+E' compatibile il tentativo di art. 270-quater: arruolamento con finalità di terrorismo internazionale?
+- Per le difficoltà probatorie di dimostrare l'esistenza di un'associazione è necessario un avanzamento dell'area di rilevanza penale, che si perfeziona con il mero accordo (purché pregnante, significativo, in qualche misura che determini la messa a disposizione delle proprie capacità e risorse e sempre che sia caratterizzato dalla finalità della violenza e non è necessaria l'indicazione dei reati scopo)
+- L'arruolamento previsto da altre fattispecie ha come finalismo l'inserimento in un esercito, il ruolo militare, l'ingresso formale all'interno di una formazione militare
+- E' ammissibile il tentativo di arruolamento per la pregnanza del pericolo, che ammette la "progressione dell'esposizione a pericolo" (tentativo del compimento di un reato connotato da carattere pericoloso). L'accordo finale è naturalmente preceduto da contatti, rapporti, precedenti intese, che possono evolvere fisiologicamente in un accordo finale e che possono assumere rilevanza se superano la soglia meramente preparatoria 
+
+Obiezioni: 
+- Rischi di violazioni del principio di offensività. L'accordo se non seguito dal compimento dell'atto è privo di rilevanza penale (115 cp). Si verrebbe a punire il mero accordo. 
+- Gli artt. 302 e 304 cp già puniscono accordi, sì che non appare necessaria la configurazione del tentativo.
+- L'art. 414 c. 4 cp, che già di per sè nella logica dell'istigazione consente di incriminare queste condotte.
+- Si rischia di incriminare la mera manifestazione di pensieri personali, una manifestazione di pensiero (come la condivisione dell'ideologia culturale), in violazione dell'art. 21 Cost.
+- Rischi di violazione di legalità, materialità ed offensività.

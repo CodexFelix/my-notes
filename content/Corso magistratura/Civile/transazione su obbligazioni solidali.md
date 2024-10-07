@@ -1,0 +1,3 @@
+1304 cc - regola dettata ovviamente per la transazione sull'intero debito e non sulla singola quota - afferma che la transazione non produce effetto verso altri creditori/debitori se non dichiarano di volerne profittare. Per due motivi. 
+1. Gil effetti verso i terzi nel nostro ordinamento sono regolati dai seguenti principi: Estensione in utilibus / non estensione in damnosis (1372 cc). La transazione è ad esito incerto rispetto agli altri consorti, pertanto la valutazione di convenienza è rimessa alla loro scelta.
+2. Può accadere che 
